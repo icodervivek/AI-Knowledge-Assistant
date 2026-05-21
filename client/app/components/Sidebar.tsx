@@ -47,7 +47,7 @@ export function Sidebar({
           </div>
           <div>
             <p className="text-sm font-semibold leading-tight" style={{ color: C.textPrimary, letterSpacing: "-0.01em" }}>
-              Knowledge AI
+              AI Knowledge Assistant
             </p>
             <p className="text-xs" style={{ color: C.textMuted }}>
               RAG-powered assistant

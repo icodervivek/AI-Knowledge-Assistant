@@ -530,5 +530,528 @@
         ],
         "latency_ms": 3269.39,
         "timestamp": "2026-05-21 09:50:11"
+    },
+    {
+        "question": "what is fennex ?",
+        "answer": "## What Fennex Does\nFennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_26",
+            "response (9).docx_5"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "p companies replace manual paperwork and spreadsheets with centralized digital platforms that improve:  Safety  Efficiency  Reporting  Compliance  Predictive analysis  Operational visibility Fennex mainly provides: 1. Compliance & Assurance Solutions Helps companies:  Manage operational compliance  Maintain safety standards  Track procedures and policies  Digitize audits and inspections  Improve governance and reporting 2.",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5."
+        ],
+        "latency_ms": 5925.97,
+        "timestamp": "2026-05-21 10:43:39"
+    },
+    {
+        "question": "what is kidcare",
+        "answer": "## KidCare Overview\nKidCare is an **Android and iOS based healthcare management application** developed by **366Pi Technologies** to simplify pediatric healthcare workflows for **Care Partners, doctors, and healthcare administrators**. It helps manage child healthcare digitally, with features such as:\n* Appointment scheduling\n* Patient registration\n* Medical history management\n* Growth tracking\n* Vaccination updates\n* Document management",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_18",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_3",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_21",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_4"
+        ],
+        "retrieved_chunks": [
+            "k Appointment → Attend Online Consultation → Receive Prescription & Reports → Follow-up if Needed 3. Summarize core features and value proposition KidCare – Short Summary KidCare is an Android-based pediatric healthcare management platform developed by 366Pi Technologies that helps Care Partners, doctors, hospitals, and parents manage child healthcare digitally.",
+            "intments, vaccination tracking, medical history, and health camp activities in a centralized system. KidCare helps healthcare teams efficiently manage children’s healthcare journeys by providing features such as appointment scheduling, patient registration, medical history management, growth tracking, vaccination updates, and document management.",
+            "Activity 1 — Explore KidCare 1. Access the staging environment for KidCare Documentation for Staging Environment for KidCare About KidCare KidCare is an Android and iOS based healthcare management application developed by 366Pi Technologies to simplify pediatric healthcare workflows for Care Partners, doctors, and healthcare administrators.",
+            " WhatsApp and portal-based communication KidCare Staging Environment The KidCare Staging Environment is a pre-production testing platform hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is used by Care Partners and internal teams to test and validate healthcare workflows before deployment to the live environment.",
+            "stration, medical history management, growth tracking, vaccination updates, and document management. About the KidCare Staging Environment The KidCare Staging Environment is a testing and pre-production version of the KidCare application hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is primarily used by Care Partners and internal teams to test, validate, and manage healthcare workflows before changes are deployed to the live production environment."
+        ],
+        "latency_ms": 3750.93,
+        "timestamp": "2026-05-21 10:43:47"
+    },
+    {
+        "question": "who is vivek ",
+        "answer": "## Vivek Pramanik\nVivek Pramanik is a full stack developer with experience at CITC The Hub of IT, Ranchi. \n* Contact: [EMAIL REDACTED] \n* Phone: [PHONE REDACTED]* Websites: vivekpramanik.in, github.com/icodervivek, linkedin.com/in/vivekpramanik",
+        "citations": [
+            "Vivek Pramanik - Resume.pdf",
+            "Soft_Computing_Neural_Network_Notes.docx",
+            "response (9).docx",
+            "NetworkSecurity_Cryptography_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_1",
+            "response (9).docx_7",
+            "response (9).docx_6",
+            "NetworkSecurity_Cryptography_Notes.docx_167",
+            "Soft_Computing_Neural_Network_Notes.docx_67"
+        ],
+        "retrieved_chunks": [
+            "Vivek Pramanik Ranchi, Jharkhand | vivekpramanikbundu@gmail.com | +91-9341775692 vivekpramanik.in | github.com/icodervivek | linkedin.com/in/vivekpramanik Experience CITC The Hub of IT, Ranchi May 2024 - June 2024 Intern as a Full Stack Developer • Learned the basics of full stack web development. Worked on creating simple web pages, connecting them with databases, and handling basic server-side functions. Projects SwiftHire – AI Powered Hiring Platform swifthire-app.vercel.",
+            ", improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).docx",
+            "I-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5. **Workflow Management Systems** These solutions enable industries to transition from manual processes to digital platforms, improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).",
+            "tween network elements (base stations, core network). UNIT VII — User Authentication and Kerberos 7.1 Introduction to Authentication Authentication is the process of verifying the claimed identity of a user, process, or device. It is the first step in access control — you must prove who you are before you can be granted access. Identification: claiming an identity — presenting a username or ID. Who are you? Authentication: proving that claimed identity — providing evidence.",
+            ": True only when both P and Q are true. • Disjunction P ∨ Q: True when at least one of P, Q is true. • Implication P → Q: False only when P is true and Q is false. • Biconditional P ↔ Q: True when P and Q have the same truth value. Normal Forms • Conjunctive Normal Form (CNF): A conjunction of clauses, where each clause is a disjunction of literals. Required by resolution-based theorem provers. • Disjunctive Normal Form (DNF): A disjunction of conjunctions of literals."
+        ],
+        "latency_ms": 3935.86,
+        "timestamp": "2026-05-21 10:44:02"
+    },
+    {
+        "question": "how to deploy ",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "dev_setup.json",
+            "onboarding_sop.json",
+            "code_review_sop.json",
+            "team_faq.json"
+        ],
+        "retrieved_chunk_ids": [
+            "dev_setup.json_2",
+            "dev_setup.json_1",
+            "onboarding_sop.json_1",
+            "code_review_sop.json_3",
+            "team_faq.json_1"
+        ],
+        "retrieved_chunks": [
+            "nv/Scripts/activate (Windows) or source venv/bin/activate (Mac/Linux)\\n pip install -r requirements.txt\\n\\n Step 3: Install frontend dependencies\\n cd ../client\\n npm install\\n\\n Step 4: Set up environment variables\\n Copy .env.example to .env and fill in required values.\\n Ask your team lead for the development API keys.\\n\\n Step 5: Start local services\\n docker-compose up -d (starts PostgreSQL and Redis)\\n\\n Step 6: Run the backend\\n cd server\\n uvicorn api.",
+            "{ \"content\": \"\\n Local Development Environment Setup\\n\\n Prerequisites:\\n - Node.js v20 or higher\\n - Python 3.11 or higher\\n - Docker Desktop\\n - Git configured with your FloCard email\\n\\n Step 1: Clone the repository\\n git clone git@github.com:flocard/platform.git\\n cd platform\\n\\n Step 2: Install backend dependencies\\n cd server\\n python -m venv venv\\n venv/Scripts/activate (Windows) or source venv/bin/activate (Mac/Linux)\\n pip install -r requirements.",
+            "{ \"content\": \"\\n New Employee Onboarding SOP\\n\\n This document describes the standard onboarding process for all new FloCard employees.\\n\\n Week 1 \\u2014 Setup and Orientation\\n Day 1: Collect your laptop from IT. Set up email, Slack, and VPN access.\\n Day 2: Complete mandatory compliance and security training in the LMS portal.\\n Day 3: Meet your buddy (assigned by HR) and attend the company orientation session.\\n Day 4-5: Shadow your team and review relevant internal documentation.",
+            "the PR description says?\\n - Security: No hardcoded secrets, no SQL injection risks, no exposed PII.\\n - Tests: Are unit and integration tests added or updated?\\n - Documentation: Are new functions and APIs documented?\\n - Performance: No obvious N+1 queries or blocking operations on the main thread.\\n\\n How to raise a PR:\\n 1. Push your branch to origin.\\n 2. Open a PR on GitHub with a clear title and description.\\n 3. Tag relevant reviewers and link the Jira ticket.\\n 4.",
+            "{ \"content\": \"\\n Q: How do I request access to internal tools?\\n A: Submit a request via the IT portal at ask@flocard.app. Approval takes 1-2 business days.\\n\\n Q: Who do I contact for payroll issues?\\n A: Reach out to ask@flocard.app or raise a ticket in the HR portal under the Payroll section.\\n\\n Q: How do I join the engineering on-call rotation?\\n A: Speak to your team lead. On-call rotations are managed in PagerDuty and shifts are weekly."
+        ],
+        "latency_ms": 4314.64,
+        "timestamp": "2026-05-21 10:44:54"
+    },
+    {
+        "question": "tell me about local deployment",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "Vivek Pramanik - Resume.pdf",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "NetworkSecurity_Cryptography_Notes.docx",
+            "Soft_Computing_Neural_Network_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NetworkSecurity_Cryptography_Notes.docx_229",
+            "Soft_Computing_Neural_Network_Notes.docx_53",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_22",
+            "Soft_Computing_Neural_Network_Notes.docx_54",
+            "Vivek Pramanik - Resume.pdf_4"
+        ],
+        "retrieved_chunks": [
+            "does not block. IPS (Intrusion Prevention System): actively blocks detected intrusions in real-time. Inline deployment — sits in the traffic path. NIDS (Network IDS): monitors network traffic at strategic points. E.g., Snort, Suricata. HIDS (Host IDS): monitors host system events — file system changes, log files, process activity. E.g., OSSEC, Tripwire. Signature-Based Detection: matches traffic against known attack patterns (signatures). Fast, accurate for known attacks.",
+            "s some plateaus. • Random-Restart Hill Climbing: Restarts from random states to escape local optima. Problems • Local Maxima: Gets stuck at local optima that are not global optima. • Plateaus: Flat regions where no neighbour is better; search wanders randomly. • Ridges: Narrow paths to the optimum; may oscillate without making progress. 3.7 Simulated Annealing (SA) SA is a probabilistic local search that escapes local optima by occasionally accepting worse moves.",
+            "internal teams to test and validate healthcare workflows before deployment to the live environment. Key Functionalities  Appointment calendar and doctor availability management  Patient registration and appointment workflows  Medical document and prescription uploads  Consultation and follow-up tracking  Care Partner dashboard and appointment status updates  Health camp management and attendance tracking Value Proposition KidCare improves pediatric healthcare management by:  Digitizing h",
+            "SA is a probabilistic local search that escapes local optima by occasionally accepting worse moves. Inspired by the annealing process in metallurgy. Acceptance probability: P(accept worse move) = e^{ΔE / T}, where ΔE < 0 and T is the current 'temperature'. • Temperature Schedule: T decreases over time (cooling): T(t+1) = α·T(t), 0 < α < 1 (geometric cooling). • Behaviour: At high T: accepts many worse moves (exploratory). At low T: accepts fewer (exploitative, approaches hill climbing).",
+            "ent • Containerized the application using Docker for seamless deployment • T ech Stack: React, Node.js, Express, Supabase (PostgreSQL), Google Gemini API, LangChain, Docker Intelliparse - RAG Powered AI PDF Summarizer intelliparse-pdf.vercel.app Developed an AI platform to analyze PDFs, websites, and texts, generate summaries and FAQs, and chat with documents using RAG for faster, smarter research."
+        ],
+        "latency_ms": 2507.61,
+        "timestamp": "2026-05-21 10:45:15"
+    },
+    {
+        "question": "tell me about Local Development Environment Setup\\n\\n        Prerequisites",
+        "answer": "## Prerequisites\n* **Node.js** v20 or higher\n* **Python** 3.11 or higher\n* **Docker Desktop**\n* **Git** configured with your FloCard email",
+        "citations": [
+            "dev_setup.json",
+            "onboarding_sop.json",
+            "company_overview.json"
+        ],
+        "retrieved_chunk_ids": [
+            "dev_setup.json_1",
+            "dev_setup.json_4",
+            "onboarding_sop.json_2",
+            "dev_setup.json_2",
+            "company_overview.json_3"
+        ],
+        "retrieved_chunks": [
+            "{ \"content\": \"\\n Local Development Environment Setup\\n\\n Prerequisites:\\n - Node.js v20 or higher\\n - Python 3.11 or higher\\n - Docker Desktop\\n - Git configured with your FloCard email\\n\\n Step 1: Clone the repository\\n git clone git@github.com:flocard/platform.git\\n cd platform\\n\\n Step 2: Install backend dependencies\\n cd server\\n python -m venv venv\\n venv/Scripts/activate (Windows) or source venv/bin/activate (Mac/Linux)\\n pip install -r requirements.",
+            "\\n The app will be available at http://localhost:3000.\\n API docs are at http://localhost:8000/docs.\\n \", \"metadata\": { \"title\": \"Developer Environment Setup Guide\", \"tags\": [ \"engineering\", \"setup\", \"development\", \"tutorial\" ], \"type\": \"tutorial\", \"date\": \"2026-05-19\" } }",
+            "company orientation session.\\n Day 4-5: Shadow your team and review relevant internal documentation.\\n\\n Week 2 \\u2014 Role Onboarding\\n Engineering hires: Set up local dev environment using the Dev Setup Guide.\\n Complete your first small task or bug fix with code review from your team lead.\\n Non-engineering hires: Complete role-specific training modules in the LMS.",
+            "nv/Scripts/activate (Windows) or source venv/bin/activate (Mac/Linux)\\n pip install -r requirements.txt\\n\\n Step 3: Install frontend dependencies\\n cd ../client\\n npm install\\n\\n Step 4: Set up environment variables\\n Copy .env.example to .env and fill in required values.\\n Ask your team lead for the development API keys.\\n\\n Step 5: Start local services\\n docker-compose up -d (starts PostgreSQL and Redis)\\n\\n Step 6: Run the backend\\n cd server\\n uvicorn api.",
+            "tiative to encourage organizations and individuals to contribute toward global sustainability goals.\\n FloCard supports businesses in aligning with the United Nations Sustainable Development Goals (SDGs) and climate action programs.\\n The platform focuses on combining networking, environmental responsibility, and digital transformation into a unified ecosystem.\\n FloCard operates through business, community, and sustainability-driven initiatives across multiple sectors."
+        ],
+        "latency_ms": 2751.14,
+        "timestamp": "2026-05-21 10:45:32"
+    },
+    {
+        "question": "what is igt",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "NetworkSecurity_Cryptography_Notes.docx",
+            "response (9).docx",
+            "Soft_Computing_Neural_Network_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NetworkSecurity_Cryptography_Notes.docx_145",
+            "Soft_Computing_Neural_Network_Notes.docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_30",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2"
+        ],
+        "retrieved_chunks": [
+            "igital signatures (proving certificate was valid when signed), timestamping blockchain transactions. TSA: Time Stamping Authority — a trusted third party (like a CA) whose job is to provide accurate, cryptographically verifiable timestamps. 6.6 Secure Electronic Transaction (SET) SET was developed jointly by Visa and Mastercard (1996–1999) as a comprehensive security protocol specifically for credit card transactions over the Internet.",
+            "rehensive Study Notes — All Units Covered UNIT I — Introduction to Artificial Intelligence System 1.1 What Is Artificial Intelligence? Artificial Intelligence (AI) is the science and engineering of making machines that exhibit intelligent behaviour — the ability to perceive their environment, reason about it, learn from experience, and take actions that maximise their chance of achieving stated goals.",
+            "ORA – Operational Risk Assessment Helps organizations digitally manage operational risk assessments. Activity 3 — Basics of SharePoint Understand key uses like document libraries, sites, and workflows and note 3 use cases where SharePoint can help in enterprise workflows. 1. What is SharePoint ? SharePoint is a web-based collaboration and document management platform by Microsoft. It helps organizations store, organize, manage, and share information securely.",
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**."
+        ],
+        "latency_ms": 2385.97,
+        "timestamp": "2026-05-21 10:45:42"
+    },
+    {
+        "question": "what is git",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "dev_setup.json",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "NetworkSecurity_Cryptography_Notes.docx",
+            "Soft_Computing_Neural_Network_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "dev_setup.json_1",
+            "Soft_Computing_Neural_Network_Notes.docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_30",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "NetworkSecurity_Cryptography_Notes.docx_158"
+        ],
+        "retrieved_chunks": [
+            "{ \"content\": \"\\n Local Development Environment Setup\\n\\n Prerequisites:\\n - Node.js v20 or higher\\n - Python 3.11 or higher\\n - Docker Desktop\\n - Git configured with your FloCard email\\n\\n Step 1: Clone the repository\\n git clone git@github.com:flocard/platform.git\\n cd platform\\n\\n Step 2: Install backend dependencies\\n cd server\\n python -m venv venv\\n venv/Scripts/activate (Windows) or source venv/bin/activate (Mac/Linux)\\n pip install -r requirements.",
+            "rehensive Study Notes — All Units Covered UNIT I — Introduction to Artificial Intelligence System 1.1 What Is Artificial Intelligence? Artificial Intelligence (AI) is the science and engineering of making machines that exhibit intelligent behaviour — the ability to perceive their environment, reason about it, learn from experience, and take actions that maximise their chance of achieving stated goals.",
+            "ORA – Operational Risk Assessment Helps organizations digitally manage operational risk assessments. Activity 3 — Basics of SharePoint Understand key uses like document libraries, sites, and workflows and note 3 use cases where SharePoint can help in enterprise workflows. 1. What is SharePoint ? SharePoint is a web-based collaboration and document management platform by Microsoft. It helps organizations store, organize, manage, and share information securely.",
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "signature in email header, verified using public key in DNS. Proves email content was not modified. DMARC (Domain-based Message Authentication): policy layer that tells receiving servers what to do if SPF/DKIM checks fail (none, quarantine, reject). TLS for SMTP: STARTTLS and SMTP-TLS encrypt email in transit between mail servers. 6."
+        ],
+        "latency_ms": 2391.0,
+        "timestamp": "2026-05-21 10:45:46"
+    },
+    {
+        "question": "what is docker",
+        "answer": "## What is Docker\nDocker is a tool used for **containerizing applications** to enable **seamless deployment**.",
+        "citations": [
+            "dev_setup.json",
+            "Vivek Pramanik - Resume.pdf",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_4",
+            "Vivek Pramanik - Resume.pdf_3",
+            "dev_setup.json_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2"
+        ],
+        "retrieved_chunks": [
+            "ent • Containerized the application using Docker for seamless deployment • T ech Stack: React, Node.js, Express, Supabase (PostgreSQL), Google Gemini API, LangChain, Docker Intelliparse - RAG Powered AI PDF Summarizer intelliparse-pdf.vercel.app Developed an AI platform to analyze PDFs, websites, and texts, generate summaries and FAQs, and chat with documents using RAG for faster, smarter research.",
+            "hiring platform with resume based job matching and role-based access for recruiters and job seekers. • Designed a responsive and modern UI using React and Tailwind CSS • Built recruiter and job seeker dashboards with role-based authentication (JWT) • Implemented RESTful APIs for job posting, searching, and management • Containerized the application using Docker for seamless deployment • T ech Stack: React, Node.",
+            "{ \"content\": \"\\n Local Development Environment Setup\\n\\n Prerequisites:\\n - Node.js v20 or higher\\n - Python 3.11 or higher\\n - Docker Desktop\\n - Git configured with your FloCard email\\n\\n Step 1: Clone the repository\\n git clone git@github.com:flocard/platform.git\\n cd platform\\n\\n Step 2: Install backend dependencies\\n cd server\\n python -m venv venv\\n venv/Scripts/activate (Windows) or source venv/bin/activate (Mac/Linux)\\n pip install -r requirements.",
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**."
+        ],
+        "latency_ms": 4031.14,
+        "timestamp": "2026-05-21 10:45:55"
+    },
+    {
+        "question": "what is swfthire",
+        "answer": "## What is SwiftHire\nSwiftHire is an **AI Powered Hiring Platform** with features including **resume based job matching** and **role-based access** for recruiters and job seekers.",
+        "citations": [
+            "Vivek Pramanik - Resume.pdf",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx",
+            "Soft_Computing_Neural_Network_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_30",
+            "Soft_Computing_Neural_Network_Notes.docx_2",
+            "response (9).docx_2"
+        ],
+        "retrieved_chunks": [
+            "g basic server-side functions. Projects SwiftHire – AI Powered Hiring Platform swifthire-app.vercel.app Built an AI powered hiring platform with resume based job matching and role-based access for recruiters and job seekers.",
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "ORA – Operational Risk Assessment Helps organizations digitally manage operational risk assessments. Activity 3 — Basics of SharePoint Understand key uses like document libraries, sites, and workflows and note 3 use cases where SharePoint can help in enterprise workflows. 1. What is SharePoint ? SharePoint is a web-based collaboration and document management platform by Microsoft. It helps organizations store, organize, manage, and share information securely.",
+            "rehensive Study Notes — All Units Covered UNIT I — Introduction to Artificial Intelligence System 1.1 What Is Artificial Intelligence? Artificial Intelligence (AI) is the science and engineering of making machines that exhibit intelligent behaviour — the ability to perceive their environment, reason about it, learn from experience, and take actions that maximise their chance of achieving stated goals.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**."
+        ],
+        "latency_ms": 2357.75,
+        "timestamp": "2026-05-21 10:46:11"
+    },
+    {
+        "question": "who is vivek",
+        "answer": "## Vivek Pramanik\nVivek Pramanik is an intern as a Full Stack Developer at CITC The Hub of IT, Ranchi.",
+        "citations": [
+            "response (9).docx",
+            "Soft_Computing_Neural_Network_Notes.docx",
+            "Vivek Pramanik - Resume.pdf",
+            "NetworkSecurity_Cryptography_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_1",
+            "response (9).docx_7",
+            "response (9).docx_6",
+            "NetworkSecurity_Cryptography_Notes.docx_167",
+            "Soft_Computing_Neural_Network_Notes.docx_67"
+        ],
+        "retrieved_chunks": [
+            "Vivek Pramanik Ranchi, Jharkhand | vivekpramanikbundu@gmail.com | +91-9341775692 vivekpramanik.in | github.com/icodervivek | linkedin.com/in/vivekpramanik Experience CITC The Hub of IT, Ranchi May 2024 - June 2024 Intern as a Full Stack Developer • Learned the basics of full stack web development. Worked on creating simple web pages, connecting them with databases, and handling basic server-side functions. Projects SwiftHire – AI Powered Hiring Platform swifthire-app.vercel.",
+            ", improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).docx",
+            "I-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5. **Workflow Management Systems** These solutions enable industries to transition from manual processes to digital platforms, improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).",
+            "tween network elements (base stations, core network). UNIT VII — User Authentication and Kerberos 7.1 Introduction to Authentication Authentication is the process of verifying the claimed identity of a user, process, or device. It is the first step in access control — you must prove who you are before you can be granted access. Identification: claiming an identity — presenting a username or ID. Who are you? Authentication: proving that claimed identity — providing evidence.",
+            ": True only when both P and Q are true. • Disjunction P ∨ Q: True when at least one of P, Q is true. • Implication P → Q: False only when P is true and Q is false. • Biconditional P ↔ Q: True when P and Q have the same truth value. Normal Forms • Conjunctive Normal Form (CNF): A conjunction of clauses, where each clause is a disjunction of literals. Required by resolution-based theorem provers. • Disjunctive Normal Form (DNF): A disjunction of conjunctions of literals."
+        ],
+        "latency_ms": 3743.13,
+        "timestamp": "2026-05-21 12:07:15"
+    },
+    {
+        "question": "what is 366pi tech",
+        "answer": "## 366Pi Tech\n366Pi Tech is a company that focuses on helping businesses become **smarter**, **sustainable**, and **future-ready** using technology, with a core vision of \"**Coding Solutions to Decarbonize Enterprises**\". They believe that \"**Digital transformation is incomplete without sustainability**\".",
+        "citations": [
+            "Vivek Pramanik - Day 1 Tasks - Week 1.pdf",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 1 Tasks - Week 1.pdf_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_18",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_21",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_4"
+        ],
+        "retrieved_chunks": [
+            "Activity 1 About 366Pi Tech 1. Technology should solve real business and sustainability problems 366Pi is not just building software — they focus on helping businesses become smarter, sustainable, and future-ready using technology. They believe: “Digital transformation is incomplete without sustainability. ” 2. Their core vision is “Coding Solutions to Decarbonize Enterprises” This is their main identity.",
+            "k Appointment → Attend Online Consultation → Receive Prescription & Reports → Follow-up if Needed 3. Summarize core features and value proposition KidCare – Short Summary KidCare is an Android-based pediatric healthcare management platform developed by 366Pi Technologies that helps Care Partners, doctors, hospitals, and parents manage child healthcare digitally.",
+            "Activity 1 — Explore KidCare 1. Access the staging environment for KidCare Documentation for Staging Environment for KidCare About KidCare KidCare is an Android and iOS based healthcare management application developed by 366Pi Technologies to simplify pediatric healthcare workflows for Care Partners, doctors, and healthcare administrators.",
+            " WhatsApp and portal-based communication KidCare Staging Environment The KidCare Staging Environment is a pre-production testing platform hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is used by Care Partners and internal teams to test and validate healthcare workflows before deployment to the live environment.",
+            "stration, medical history management, growth tracking, vaccination updates, and document management. About the KidCare Staging Environment The KidCare Staging Environment is a testing and pre-production version of the KidCare application hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is primarily used by Care Partners and internal teams to test, validate, and manage healthcare workflows before changes are deployed to the live production environment."
+        ],
+        "latency_ms": 2129.4,
+        "timestamp": "2026-05-21 12:07:21"
+    },
+    {
+        "question": "who is minki ",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "Soft_Computing_Neural_Network_Notes.docx",
+            "ECommerce_Notes.docx",
+            "NetworkSecurity_Cryptography_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NetworkSecurity_Cryptography_Notes.docx_167",
+            "Soft_Computing_Neural_Network_Notes.docx_71",
+            "ECommerce_Notes.docx_156",
+            "Soft_Computing_Neural_Network_Notes.docx_67",
+            "NetworkSecurity_Cryptography_Notes.docx_86"
+        ],
+        "retrieved_chunks": [
+            "tween network elements (base stations, core network). UNIT VII — User Authentication and Kerberos 7.1 Introduction to Authentication Authentication is the process of verifying the claimed identity of a user, process, or device. It is the first step in access control — you must prove who you are before you can be granted access. Identification: claiming an identity — presenting a username or ID. Who are you? Authentication: proving that claimed identity — providing evidence.",
+            "'There exists someone John loves.' • Nested Quantifiers: ∀x ∃y Loves(x,y): 'Everyone loves someone.' ≠ ∃y ∀x Loves(x,y): 'Someone is loved by everyone.' Sentences in FOL An atomic sentence is a predicate applied to terms: Human(Socrates). A complex sentence is built using connectives: Human(Socrates) → Mortal(Socrates). 4.4 Resolution Resolution is a complete, sound inference rule for propositional and first-order logic. It works on sentences in CNF.",
+            "— governed by standards bodies including IETF (standards), ICANN (domain names), IAB (architecture). Key Services: World Wide Web (WWW), email, file transfer (FTP), Voice over IP (VoIP), streaming, cloud computing, EDI. 6.8 TCP/IP Internet Components TCP/IP (Transmission Control Protocol / Internet Protocol) is the fundamental communication protocol of the Internet. It is a suite of protocols that governs how data is formatted, addressed, transmitted, routed, and received. 6.8.",
+            ": True only when both P and Q are true. • Disjunction P ∨ Q: True when at least one of P, Q is true. • Implication P → Q: False only when P is true and Q is false. • Biconditional P ↔ Q: True when P and Q have the same truth value. Normal Forms • Conjunctive Normal Form (CNF): A conjunction of clauses, where each clause is a disjunction of literals. Required by resolution-based theorem provers. • Disjunctive Normal Form (DNF): A disjunction of conjunctions of literals.",
+            ", timely access to information and systems. Violated by DDoS attacks, ransomware, hardware failures. Enforced by redundancy, backups, DDoS protection. Authenticity: verifying the identity of communicating parties — the message is genuinely from who it claims. Enforced by digital signatures, certificates, multi-factor authentication. Non-repudiation: preventing parties from denying actions they have performed. Enforced by digital signatures and audit logs — provides legal accountability."
+        ],
+        "latency_ms": 1800.95,
+        "timestamp": "2026-05-21 12:08:38"
+    },
+    {
+        "question": "what is fennex",
+        "answer": "## What Fennex Does\nFennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors.",
+        "citations": [
+            "response (9).docx",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_26",
+            "response (9).docx_5"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "p companies replace manual paperwork and spreadsheets with centralized digital platforms that improve:  Safety  Efficiency  Reporting  Compliance  Predictive analysis  Operational visibility Fennex mainly provides: 1. Compliance & Assurance Solutions Helps companies:  Manage operational compliance  Maintain safety standards  Track procedures and policies  Digitize audits and inspections  Improve governance and reporting 2.",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5."
+        ],
+        "latency_ms": 3000.84,
+        "timestamp": "2026-05-21 12:18:10"
+    },
+    {
+        "question": "who is minki ",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "Soft_Computing_Neural_Network_Notes.docx",
+            "ECommerce_Notes.docx",
+            "NetworkSecurity_Cryptography_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NetworkSecurity_Cryptography_Notes.docx_167",
+            "Soft_Computing_Neural_Network_Notes.docx_71",
+            "ECommerce_Notes.docx_156",
+            "Soft_Computing_Neural_Network_Notes.docx_67",
+            "NetworkSecurity_Cryptography_Notes.docx_86"
+        ],
+        "retrieved_chunks": [
+            "tween network elements (base stations, core network). UNIT VII — User Authentication and Kerberos 7.1 Introduction to Authentication Authentication is the process of verifying the claimed identity of a user, process, or device. It is the first step in access control — you must prove who you are before you can be granted access. Identification: claiming an identity — presenting a username or ID. Who are you? Authentication: proving that claimed identity — providing evidence.",
+            "'There exists someone John loves.' • Nested Quantifiers: ∀x ∃y Loves(x,y): 'Everyone loves someone.' ≠ ∃y ∀x Loves(x,y): 'Someone is loved by everyone.' Sentences in FOL An atomic sentence is a predicate applied to terms: Human(Socrates). A complex sentence is built using connectives: Human(Socrates) → Mortal(Socrates). 4.4 Resolution Resolution is a complete, sound inference rule for propositional and first-order logic. It works on sentences in CNF.",
+            "— governed by standards bodies including IETF (standards), ICANN (domain names), IAB (architecture). Key Services: World Wide Web (WWW), email, file transfer (FTP), Voice over IP (VoIP), streaming, cloud computing, EDI. 6.8 TCP/IP Internet Components TCP/IP (Transmission Control Protocol / Internet Protocol) is the fundamental communication protocol of the Internet. It is a suite of protocols that governs how data is formatted, addressed, transmitted, routed, and received. 6.8.",
+            ": True only when both P and Q are true. • Disjunction P ∨ Q: True when at least one of P, Q is true. • Implication P → Q: False only when P is true and Q is false. • Biconditional P ↔ Q: True when P and Q have the same truth value. Normal Forms • Conjunctive Normal Form (CNF): A conjunction of clauses, where each clause is a disjunction of literals. Required by resolution-based theorem provers. • Disjunctive Normal Form (DNF): A disjunction of conjunctions of literals.",
+            ", timely access to information and systems. Violated by DDoS attacks, ransomware, hardware failures. Enforced by redundancy, backups, DDoS protection. Authenticity: verifying the identity of communicating parties — the message is genuinely from who it claims. Enforced by digital signatures, certificates, multi-factor authentication. Non-repudiation: preventing parties from denying actions they have performed. Enforced by digital signatures and audit logs — provides legal accountability."
+        ],
+        "latency_ms": 1739.76,
+        "timestamp": "2026-05-21 12:18:16"
+    },
+    {
+        "question": "what is 366pi tech",
+        "answer": "## 366Pi Tech\n366Pi Tech is a company that focuses on helping businesses become **smarter**, **sustainable**, and **future-ready** using technology, with a core vision of \"**Coding Solutions to Decarbonize Enterprises**\". They believe that \"**Digital transformation is incomplete without sustainability**\".",
+        "citations": [
+            "Vivek Pramanik - Day 1 Tasks - Week 1.pdf",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 1 Tasks - Week 1.pdf_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_18",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_21",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_4"
+        ],
+        "retrieved_chunks": [
+            "Activity 1 About 366Pi Tech 1. Technology should solve real business and sustainability problems 366Pi is not just building software — they focus on helping businesses become smarter, sustainable, and future-ready using technology. They believe: “Digital transformation is incomplete without sustainability. ” 2. Their core vision is “Coding Solutions to Decarbonize Enterprises” This is their main identity.",
+            "k Appointment → Attend Online Consultation → Receive Prescription & Reports → Follow-up if Needed 3. Summarize core features and value proposition KidCare – Short Summary KidCare is an Android-based pediatric healthcare management platform developed by 366Pi Technologies that helps Care Partners, doctors, hospitals, and parents manage child healthcare digitally.",
+            "Activity 1 — Explore KidCare 1. Access the staging environment for KidCare Documentation for Staging Environment for KidCare About KidCare KidCare is an Android and iOS based healthcare management application developed by 366Pi Technologies to simplify pediatric healthcare workflows for Care Partners, doctors, and healthcare administrators.",
+            " WhatsApp and portal-based communication KidCare Staging Environment The KidCare Staging Environment is a pre-production testing platform hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is used by Care Partners and internal teams to test and validate healthcare workflows before deployment to the live environment.",
+            "stration, medical history management, growth tracking, vaccination updates, and document management. About the KidCare Staging Environment The KidCare Staging Environment is a testing and pre-production version of the KidCare application hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is primarily used by Care Partners and internal teams to test, validate, and manage healthcare workflows before changes are deployed to the live production environment."
+        ],
+        "latency_ms": 2229.53,
+        "timestamp": "2026-05-21 12:18:36"
+    },
+    {
+        "question": "what is Docker",
+        "answer": "## What is Docker\nDocker is a **containerization** platform used for **seamless deployment** of applications.",
+        "citations": [
+            "dev_setup.json",
+            "Vivek Pramanik - Resume.pdf",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_4",
+            "Vivek Pramanik - Resume.pdf_3",
+            "dev_setup.json_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2"
+        ],
+        "retrieved_chunks": [
+            "ent • Containerized the application using Docker for seamless deployment • T ech Stack: React, Node.js, Express, Supabase (PostgreSQL), Google Gemini API, LangChain, Docker Intelliparse - RAG Powered AI PDF Summarizer intelliparse-pdf.vercel.app Developed an AI platform to analyze PDFs, websites, and texts, generate summaries and FAQs, and chat with documents using RAG for faster, smarter research.",
+            "hiring platform with resume based job matching and role-based access for recruiters and job seekers. • Designed a responsive and modern UI using React and Tailwind CSS • Built recruiter and job seeker dashboards with role-based authentication (JWT) • Implemented RESTful APIs for job posting, searching, and management • Containerized the application using Docker for seamless deployment • T ech Stack: React, Node.",
+            "{ \"content\": \"\\n Local Development Environment Setup\\n\\n Prerequisites:\\n - Node.js v20 or higher\\n - Python 3.11 or higher\\n - Docker Desktop\\n - Git configured with your FloCard email\\n\\n Step 1: Clone the repository\\n git clone git@github.com:flocard/platform.git\\n cd platform\\n\\n Step 2: Install backend dependencies\\n cd server\\n python -m venv venv\\n venv/Scripts/activate (Windows) or source venv/bin/activate (Mac/Linux)\\n pip install -r requirements.",
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**."
+        ],
+        "latency_ms": 2196.09,
+        "timestamp": "2026-05-21 12:18:54"
+    },
+    {
+        "question": "what is osi ?",
+        "answer": "## Definition of OSI\nThe **OSI** (Open Systems Interconnection) model is a seven-layer conceptual framework for network communication, developed by ISO in 1984. It standardises how data flows from application to physical medium and back.",
+        "citations": [
+            "NetworkSecurity_Cryptography_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NetworkSecurity_Cryptography_Notes.docx_17",
+            "NetworkSecurity_Cryptography_Notes.docx_9",
+            "NetworkSecurity_Cryptography_Notes.docx_19",
+            "NetworkSecurity_Cryptography_Notes.docx_18",
+            "NetworkSecurity_Cryptography_Notes.docx_10"
+        ],
+        "retrieved_chunks": [
+            "ons: bit transmission, signal encoding, data rate specification, physical topology, synchronisation. Standards: RS-232, USB, Ethernet physical standards, DSL, SONET, Bluetooth physical. Devices: Hubs, Repeaters, Cables, Connectors, Modems. PDU: Bits (Signals). Key Point: OSI is a reference model — most real implementations use TCP/IP. OSI layers 5, 6, and 7 are often merged into the TCP/IP Application layer. 1.",
+            "and sequence information. Packet: network-layer PDU — includes source and destination IP addresses. Frame: data-link-layer PDU — includes MAC addresses and error-checking fields. Bits: physical-layer PDU — actual electrical/optical/radio signals. 1.3 The OSI Reference Model The Open Systems Interconnection (OSI) model, developed by ISO in 1984, defines a seven-layer conceptual framework for network communication. It standardises how data flows from application to physical medium and back. 1.3.",
+            "of OSI): supports network applications directly. Protocols: HTTP, FTP, DNS, SMTP, SSH, SNMP, Telnet. Transport Layer (Layer 4 of OSI): end-to-end communication. Protocols: TCP (reliable, ordered, error-checked) and UDP (fast, connectionless). Internet Layer (Layer 3 of OSI): addressing and routing. Protocols: IPv4, IPv6, ICMP, ARP. Network Access Layer (Layers 1-2 of OSI): physical transmission and data-link framing. Ethernet, Wi-Fi, PPP. 1.4.",
+            "mentations use TCP/IP. OSI layers 5, 6, and 7 are often merged into the TCP/IP Application layer. 1.4 The TCP/IP Protocol Architecture The TCP/IP model is the practical, de-facto standard for internet communications. It has 4 layers (sometimes shown as 5 when the Physical layer is separated from Data Link). 1.4.1 TCP/IP Layers Application Layer (Layers 5-7 of OSI): supports network applications directly. Protocols: HTTP, FTP, DNS, SMTP, SSH, SNMP, Telnet.",
+            "ork communication. It standardises how data flows from application to physical medium and back. 1.3.1 OSI Layers — Top to Bottom Layer 7 — Application Layer Provides network services directly to end-user applications. Handles user authentication, privacy, and identifies communication partners. Protocols: HTTP/HTTPS, FTP, SMTP, POP3, IMAP, DNS, DHCP, SNMP, Telnet, SSH. Functions: file transfers, email, remote login, network management, directory services. PDU: Data (Message)."
+        ],
+        "latency_ms": 5209.43,
+        "timestamp": "2026-05-21 12:22:55"
+    },
+    {
+        "question": "give me the important questions for neural networks",
+        "answer": "## Important Characteristics of Neural Networks\n* **Adaptability / Learning**: Adjust weights via training algorithms to improve performance.\n* **Non-linearity**: Activation functions introduce non-linearity, enabling modelling of complex functions.\n* **High Dimensionality**: Can process thousands to millions of input features.\n* **Generalisation**: Correctly handle unseen data after learning from training set.\n\n## Learning Methods in Neural Networks\n* **Supervised Learning**: Training data consists of (input, desired output) pairs.\n* **Backpropagation**: Algorithm that computes gradients of the loss w.r.t. each weight using the chain rule, then updates weights via gradient descent.",
+        "citations": [
+            "Soft_Computing_Neural_Network_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Soft_Computing_Neural_Network_Notes.docx_84",
+            "Soft_Computing_Neural_Network_Notes.docx_98",
+            "Soft_Computing_Neural_Network_Notes.docx_130",
+            "Soft_Computing_Neural_Network_Notes.docx_100",
+            "Soft_Computing_Neural_Network_Notes.docx_129"
+        ],
+        "retrieved_chunks": [
+            ": Frames ≈ Classes; Frame instances ≈ Objects; Slots ≈ Attributes; Procedural attachments ≈ Methods. UNIT V — Fundamentals of Neural Networks 5.1 Basic Concepts of Neural Networks An Artificial Neural Network (ANN) is a computational model inspired by the biological neural network of the brain. It consists of interconnected processing units (artificial neurons) that learn to perform tasks by adjusting the strength of connections (weights) based on training data.",
+            "arallel using self-attention mechanisms. Basis of GPT, BERT, T5, and other large language models. 5.5 Characteristics of Neural Networks • Adaptability / Learning: Adjust weights via training algorithms to improve performance. • Non-linearity: Activation functions introduce non-linearity, enabling modelling of complex functions. • High Dimensionality: Can process thousands to millions of input features. • Generalisation: Correctly handle unseen data after learning from training set.",
+            "rst trainable neural network. • Geoffrey Hinton: Backpropagation; deep learning; Boltzmann machines. • Marvin Minsky (1975): Frames for knowledge representation. • Ross Quillian (1968): Semantic Networks. • Noam Chomsky: Chomsky Hierarchy; transformational grammar; generative linguistics. • Vaswani et al. (2017): Transformer architecture ('Attention is All You Need').",
+            "s. • Data-Driven: No need for hand-crafted rules; patterns are extracted automatically from data. 5.6 Learning Methods in Neural Networks Supervised Learning Training data consists of (input, desired output) pairs. The network minimises a loss function (e.g., MSE, cross-entropy) by comparing its output to the target. • Backpropagation: Algorithm that computes gradients of the loss w.r.t. each weight using the chain rule, then updates weights via gradient descent: w ← w − η · ∂L/∂w.",
+            "ight Update: w ← w − η · ∂L/∂w Important Scientists & Contributions • John McCarthy (1956): Coined the term 'Artificial Intelligence'; founded the field at Dartmouth Conference. • Alan Turing (1950): Turing Test for machine intelligence. • Lotfi Zadeh (1965): Fuzzy Set Theory. • John Holland (1975): Genetic Algorithms. • Frank Rosenblatt (1958): Perceptron — first trainable neural network. • Geoffrey Hinton: Backpropagation; deep learning; Boltzmann machines."
+        ],
+        "latency_ms": 2836.33,
+        "timestamp": "2026-05-21 12:23:15"
+    },
+    {
+        "question": "give me the important sample questions for neural networks\n",
+        "answer": "## Important Sample Questions for Neural Networks\n* What is an Artificial Neural Network (ANN) and how does it learn to perform tasks?\n* What are the characteristics of Neural Networks, such as adaptability, non-linearity, and high dimensionality?\n* What are the different learning methods in Neural Networks, including supervised learning?\n* How does backpropagation work in Neural Networks, including weight updates and gradient descent?\n* What are the key contributions of important scientists, such as **Geoffrey Hinton**, **Frank Rosenblatt**, and **John McCarthy**, to the field of Neural Networks?",
+        "citations": [
+            "Soft_Computing_Neural_Network_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Soft_Computing_Neural_Network_Notes.docx_130",
+            "Soft_Computing_Neural_Network_Notes.docx_84",
+            "Soft_Computing_Neural_Network_Notes.docx_98",
+            "Soft_Computing_Neural_Network_Notes.docx_100",
+            "Soft_Computing_Neural_Network_Notes.docx_129"
+        ],
+        "retrieved_chunks": [
+            "rst trainable neural network. • Geoffrey Hinton: Backpropagation; deep learning; Boltzmann machines. • Marvin Minsky (1975): Frames for knowledge representation. • Ross Quillian (1968): Semantic Networks. • Noam Chomsky: Chomsky Hierarchy; transformational grammar; generative linguistics. • Vaswani et al. (2017): Transformer architecture ('Attention is All You Need').",
+            ": Frames ≈ Classes; Frame instances ≈ Objects; Slots ≈ Attributes; Procedural attachments ≈ Methods. UNIT V — Fundamentals of Neural Networks 5.1 Basic Concepts of Neural Networks An Artificial Neural Network (ANN) is a computational model inspired by the biological neural network of the brain. It consists of interconnected processing units (artificial neurons) that learn to perform tasks by adjusting the strength of connections (weights) based on training data.",
+            "arallel using self-attention mechanisms. Basis of GPT, BERT, T5, and other large language models. 5.5 Characteristics of Neural Networks • Adaptability / Learning: Adjust weights via training algorithms to improve performance. • Non-linearity: Activation functions introduce non-linearity, enabling modelling of complex functions. • High Dimensionality: Can process thousands to millions of input features. • Generalisation: Correctly handle unseen data after learning from training set.",
+            "s. • Data-Driven: No need for hand-crafted rules; patterns are extracted automatically from data. 5.6 Learning Methods in Neural Networks Supervised Learning Training data consists of (input, desired output) pairs. The network minimises a loss function (e.g., MSE, cross-entropy) by comparing its output to the target. • Backpropagation: Algorithm that computes gradients of the loss w.r.t. each weight using the chain rule, then updates weights via gradient descent: w ← w − η · ∂L/∂w.",
+            "ight Update: w ← w − η · ∂L/∂w Important Scientists & Contributions • John McCarthy (1956): Coined the term 'Artificial Intelligence'; founded the field at Dartmouth Conference. • Alan Turing (1950): Turing Test for machine intelligence. • Lotfi Zadeh (1965): Fuzzy Set Theory. • John Holland (1975): Genetic Algorithms. • Frank Rosenblatt (1958): Perceptron — first trainable neural network. • Geoffrey Hinton: Backpropagation; deep learning; Boltzmann machines."
+        ],
+        "latency_ms": 2903.82,
+        "timestamp": "2026-05-21 12:23:34"
+    },
+    {
+        "question": "who is vivek ",
+        "answer": "## Vivek Pramanik\nVivek Pramanik is an intern as a Full Stack Developer at CITC The Hub of IT, Ranchi.",
+        "citations": [
+            "response (9).docx",
+            "Soft_Computing_Neural_Network_Notes.docx",
+            "Vivek Pramanik - Resume.pdf",
+            "NetworkSecurity_Cryptography_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_1",
+            "response (9).docx_7",
+            "response (9).docx_6",
+            "NetworkSecurity_Cryptography_Notes.docx_167",
+            "Soft_Computing_Neural_Network_Notes.docx_67"
+        ],
+        "retrieved_chunks": [
+            "Vivek Pramanik Ranchi, Jharkhand | vivekpramanikbundu@gmail.com | +91-9341775692 vivekpramanik.in | github.com/icodervivek | linkedin.com/in/vivekpramanik Experience CITC The Hub of IT, Ranchi May 2024 - June 2024 Intern as a Full Stack Developer • Learned the basics of full stack web development. Worked on creating simple web pages, connecting them with databases, and handling basic server-side functions. Projects SwiftHire – AI Powered Hiring Platform swifthire-app.vercel.",
+            ", improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).docx",
+            "I-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5. **Workflow Management Systems** These solutions enable industries to transition from manual processes to digital platforms, improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).",
+            "tween network elements (base stations, core network). UNIT VII — User Authentication and Kerberos 7.1 Introduction to Authentication Authentication is the process of verifying the claimed identity of a user, process, or device. It is the first step in access control — you must prove who you are before you can be granted access. Identification: claiming an identity — presenting a username or ID. Who are you? Authentication: proving that claimed identity — providing evidence.",
+            ": True only when both P and Q are true. • Disjunction P ∨ Q: True when at least one of P, Q is true. • Implication P → Q: False only when P is true and Q is false. • Biconditional P ↔ Q: True when P and Q have the same truth value. Normal Forms • Conjunctive Normal Form (CNF): A conjunction of clauses, where each clause is a disjunction of literals. Required by resolution-based theorem provers. • Disjunctive Normal Form (DNF): A disjunction of conjunctions of literals."
+        ],
+        "latency_ms": 2400.74,
+        "timestamp": "2026-05-21 12:24:15"
     }
 ]

@@ -65,11 +65,21 @@ def recall_at_k(logs):
     return round(sum(scores) / len(scores) * 100, 2)
 
 
+def avg_latency(logs):
+    if not logs:
+        return 0.0
+    values = [log["latency_ms"] for log in logs if log.get("latency_ms") is not None]
+    if not values:
+        return 0.0
+    return round(sum(values) / len(values), 1)
+
+
 def compute_metrics():
     logs = load_logs()
     return {
         "total_queries": len(logs),
+        "recall_at_k": recall_at_k(logs),
         "citation_coverage": citation_coverage(logs),
         "answer_grounding": answer_grounding(logs),
-        "recall_at_k": recall_at_k(logs)
+        "avg_latency_ms": avg_latency(logs),
     }
