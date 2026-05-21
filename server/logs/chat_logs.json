@@ -1053,5 +1053,101 @@
         ],
         "latency_ms": 2400.74,
         "timestamp": "2026-05-21 12:24:15"
+    },
+    {
+        "question": "what is kidcare ",
+        "answer": "## KidCare Description\nKidCare is a pediatric healthcare management platform developed by **366Pi Technologies** that helps manage child healthcare digitally. It is described as both **Android-based** and **Android and iOS based healthcare management application**.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_18",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_3",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_21",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_4"
+        ],
+        "retrieved_chunks": [
+            "k Appointment → Attend Online Consultation → Receive Prescription & Reports → Follow-up if Needed 3. Summarize core features and value proposition KidCare – Short Summary KidCare is an Android-based pediatric healthcare management platform developed by 366Pi Technologies that helps Care Partners, doctors, hospitals, and parents manage child healthcare digitally.",
+            "intments, vaccination tracking, medical history, and health camp activities in a centralized system. KidCare helps healthcare teams efficiently manage children’s healthcare journeys by providing features such as appointment scheduling, patient registration, medical history management, growth tracking, vaccination updates, and document management.",
+            "Activity 1 — Explore KidCare 1. Access the staging environment for KidCare Documentation for Staging Environment for KidCare About KidCare KidCare is an Android and iOS based healthcare management application developed by 366Pi Technologies to simplify pediatric healthcare workflows for Care Partners, doctors, and healthcare administrators.",
+            " WhatsApp and portal-based communication KidCare Staging Environment The KidCare Staging Environment is a pre-production testing platform hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is used by Care Partners and internal teams to test and validate healthcare workflows before deployment to the live environment.",
+            "stration, medical history management, growth tracking, vaccination updates, and document management. About the KidCare Staging Environment The KidCare Staging Environment is a testing and pre-production version of the KidCare application hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is primarily used by Care Partners and internal teams to test, validate, and manage healthcare workflows before changes are deployed to the live production environment."
+        ],
+        "latency_ms": 3570.08,
+        "timestamp": "2026-05-21 12:54:44"
+    },
+    {
+        "question": "what is the staging environment of kidcare",
+        "answer": "## Staging Environment of KidCare\nThe KidCare Staging Environment is a **testing and pre-production version** of the KidCare application, hosted on **Microsoft SharePoint** and maintained by **366Pi Technologies**. It is used by **Care Partners and internal teams** to test, validate, and manage **healthcare workflows** before changes are deployed to the live production environment.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_4",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_21",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_5",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_20"
+        ],
+        "retrieved_chunks": [
+            "stration, medical history management, growth tracking, vaccination updates, and document management. About the KidCare Staging Environment The KidCare Staging Environment is a testing and pre-production version of the KidCare application hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is primarily used by Care Partners and internal teams to test, validate, and manage healthcare workflows before changes are deployed to the live production environment.",
+            " WhatsApp and portal-based communication KidCare Staging Environment The KidCare Staging Environment is a pre-production testing platform hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is used by Care Partners and internal teams to test and validate healthcare workflows before deployment to the live environment.",
+            "ate, and manage healthcare workflows before changes are deployed to the live production environment. The staging environment provides access to all major modules and features of KidCare, allowing users to safely verify functionalities, workflows, and data updates. Key Functionalities Available in the Staging Environment 1. Appointment Management  Care Partners can access the Appointment Calendar to view all scheduled appointments for children.",
+            "Activity 1 — Explore KidCare 1. Access the staging environment for KidCare Documentation for Staging Environment for KidCare About KidCare KidCare is an Android and iOS based healthcare management application developed by 366Pi Technologies to simplify pediatric healthcare workflows for Care Partners, doctors, and healthcare administrators.",
+            "nt, vaccination tracking, growth monitoring, and healthcare communication in one centralized system. Core Features of KidCare  Patient registration and profile management  Appointment booking and scheduling  Teleconsultation with doctors  Digital prescriptions and medical reports  Vaccination and growth tracking  Periodic child health history management  Health camp creation and management  WhatsApp and portal-based communication KidCare Staging Environment The KidCare Staging Environmen"
+        ],
+        "latency_ms": 2979.16,
+        "timestamp": "2026-05-21 12:55:03"
+    },
+    {
+        "question": "what is swifthire",
+        "answer": "## What is SwiftHire\nSwiftHire is an **AI Powered Hiring Platform** with resume based job matching and role-based access for recruiters and job seekers.",
+        "citations": [
+            "response (9).docx",
+            "Vivek Pramanik - Resume.pdf",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_2",
+            "Vivek Pramanik - Resume.pdf_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_30",
+            "response (9).docx_2"
+        ],
+        "retrieved_chunks": [
+            "g basic server-side functions. Projects SwiftHire – AI Powered Hiring Platform swifthire-app.vercel.app Built an AI powered hiring platform with resume based job matching and role-based access for recruiters and job seekers.",
+            "Vivek Pramanik Ranchi, Jharkhand | vivekpramanikbundu@gmail.com | +91-9341775692 vivekpramanik.in | github.com/icodervivek | linkedin.com/in/vivekpramanik Experience CITC The Hub of IT, Ranchi May 2024 - June 2024 Intern as a Full Stack Developer • Learned the basics of full stack web development. Worked on creating simple web pages, connecting them with databases, and handling basic server-side functions. Projects SwiftHire – AI Powered Hiring Platform swifthire-app.vercel.",
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "ORA – Operational Risk Assessment Helps organizations digitally manage operational risk assessments. Activity 3 — Basics of SharePoint Understand key uses like document libraries, sites, and workflows and note 3 use cases where SharePoint can help in enterprise workflows. 1. What is SharePoint ? SharePoint is a web-based collaboration and document management platform by Microsoft. It helps organizations store, organize, manage, and share information securely.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**."
+        ],
+        "latency_ms": 2485.82,
+        "timestamp": "2026-05-21 12:55:18"
+    },
+    {
+        "question": "what is dorandagpt",
+        "answer": "## What is DorandaGPT\nDorandaGPT is an **AI Persona Assistant** that enables natural, human-like conversations with dialogue modeled on college professors’ communication styles. It has a configurable AI backend supporting **OpenAI** and **Google Gemini APIs**.",
+        "citations": [
+            "response (9).docx",
+            "Vivek Pramanik - Resume.pdf",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_6",
+            "Vivek Pramanik - Resume.pdf_5",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_30"
+        ],
+        "retrieved_chunks": [
+            "erk, Google Gemini API, LangChain, TailwindCSS DorandaGPT - AI Persona Assistant doranda-gpt.vercel.app Built an AI-powered virtual assistant enabling natural, human-like conversations with dialogue modeled on college professors’ communication styles. • AI-driven conversational interface for friendly and engaging interactions • Configurable AI backend supporting OpenAI and Google Gemini APIs • T ech Stack: Next.",
+            "texts, generate summaries and FAQs, and chat with documents using RAG for faster, smarter research. • RAG powered chat to interact intelligently with PDFs, websites, and texts • PDF upload with instant AI-generated summaries and FAQs • Real-time AI responses powered by Google Generative AI and LangChain • T ech Stack: Next.js, TypeScript, Qdrant (Vector DB), Clerk, Google Gemini API, LangChain, TailwindCSS DorandaGPT - AI Persona Assistant doranda-gpt.vercel.",
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "ORA – Operational Risk Assessment Helps organizations digitally manage operational risk assessments. Activity 3 — Basics of SharePoint Understand key uses like document libraries, sites, and workflows and note 3 use cases where SharePoint can help in enterprise workflows. 1. What is SharePoint ? SharePoint is a web-based collaboration and document management platform by Microsoft. It helps organizations store, organize, manage, and share information securely."
+        ],
+        "latency_ms": 2367.88,
+        "timestamp": "2026-05-21 12:56:25"
     }
 ]
