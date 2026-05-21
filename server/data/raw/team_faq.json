@@ -1,0 +1,15 @@
+{
+    "content": "\n        Q: How do I request access to internal tools?\n        A: Submit a request via the IT portal at ask@flocard.app. Approval takes 1-2 business days.\n\n        Q: Who do I contact for payroll issues?\n        A: Reach out to ask@flocard.app or raise a ticket in the HR portal under the Payroll section.\n\n        Q: How do I join the engineering on-call rotation?\n        A: Speak to your team lead. On-call rotations are managed in PagerDuty and shifts are weekly.\n\n        Q: Where can I find the company org chart?\n        A: The org chart is available on the internal Confluence page under Company > People > Org Chart.\n\n        Q: What is the process for getting a new laptop?\n        A: New hardware requests must be approved by your manager and submitted via the IT portal.\n\n        Q: How do I reset my VPN credentials?\n        A: Contact the IT helpdesk at ask@flocard.app.\n        ",
+    "metadata": {
+        "title": "Team FAQ",
+        "tags": [
+            "FAQ",
+            "team",
+            "HR",
+            "IT",
+            "onboarding"
+        ],
+        "type": "faq",
+        "date": "2026-05-19"
+    }
+}

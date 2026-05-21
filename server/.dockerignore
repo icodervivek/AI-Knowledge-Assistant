@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+vector_db/
+data/uploads/
+data/processed/
+logs/
+exports/
+*.png
+*.docx
+*.xlsx

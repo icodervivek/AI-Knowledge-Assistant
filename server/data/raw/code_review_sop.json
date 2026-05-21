@@ -1,0 +1,15 @@
+{
+    "content": "\n        Code Review Standard Operating Procedure\n\n        Purpose:\n        To ensure all code changes meet FloCard quality and security standards before merging.\n\n        Rules:\n        1. Every pull request must have at least 2 approvals before merging.\n        2. No self-merges are allowed, even for urgent hotfixes.\n        3. All CI checks (lint, tests, security scan) must pass before review can be approved.\n        4. PRs should be kept small — ideally under 400 lines of change.\n        5. Reviewers must respond within 1 business day.\n\n        What reviewers must check:\n        - Correctness: Does the code do what the PR description says?\n        - Security: No hardcoded secrets, no SQL injection risks, no exposed PII.\n        - Tests: Are unit and integration tests added or updated?\n        - Documentation: Are new functions and APIs documented?\n        - Performance: No obvious N+1 queries or blocking operations on the main thread.\n\n        How to raise a PR:\n        1. Push your branch to origin.\n        2. Open a PR on GitHub with a clear title and description.\n        3. Tag relevant reviewers and link the Jira ticket.\n        4. Address all review comments before re-requesting review.\n\n        Hotfix process:\n        For production incidents, one approval is sufficient but the second must follow within 24 hours.\n        All hotfixes must be accompanied by a post-mortem ticket in Jira.\n        ",
+    "metadata": {
+        "title": "Code Review SOP",
+        "tags": [
+            "engineering",
+            "SOP",
+            "process",
+            "code review",
+            "best practices"
+        ],
+        "type": "sop",
+        "date": "2026-05-19"
+    }
+}

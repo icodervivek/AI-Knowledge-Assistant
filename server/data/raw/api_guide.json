@@ -1,0 +1,14 @@
+{
+    "content": "\n        FloCard Internal API Guide\n\n        Base URL: https://api.flocard.internal/v2\n\n        Authentication:\n        All API requests require a Bearer token in the Authorization header.\n        Example: Authorization: Bearer <your_token>\n        Tokens can be generated from the Developer Portal at dev.flocard.internal.\n\n        Common Endpoints:\n\n        GET /expenses\n        Returns a paginated list of expense records for the authenticated user.\n        Query params: page (int), limit (int, max 100), status (pending|approved|rejected)\n\n        POST /expenses\n        Creates a new expense entry.\n        Body: { \"amount\": 500, \"currency\": \"INR\", \"category\": \"travel\", \"description\": \"Client meeting cab\" }\n\n        POST /expenses/{id}/approve\n        Approves a pending expense. Requires manager role.\n\n        GET /reports/summary\n        Returns a spending summary grouped by category for the current month.\n\n        Error Codes:\n        400 - Bad Request: missing or invalid fields\n        401 - Unauthorized: invalid or expired token\n        403 - Forbidden: insufficient permissions\n        404 - Not Found: resource does not exist\n        500 - Internal Server Error: contact the platform team\n        ",
+    "metadata": {
+        "title": "FloCard API Developer Guide",
+        "tags": [
+            "API",
+            "developer",
+            "engineering",
+            "integration"
+        ],
+        "type": "tutorial",
+        "date": "2026-05-19"
+    }
+}

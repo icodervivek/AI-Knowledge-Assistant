@@ -1,0 +1,534 @@
+[
+    {
+        "question": "who is rohan menhta\n",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "DataScience_Python_Notes.docx",
+            "NetworkSecurity_Cryptography_Notes.docx",
+            "ECommerce_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "ECommerce_Notes.docx_156",
+            "DataScience_Python_Notes.docx_124",
+            "NetworkSecurity_Cryptography_Notes.docx_217",
+            "NetworkSecurity_Cryptography_Notes.docx_86",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_21"
+        ],
+        "retrieved_chunks": [
+            "— governed by standards bodies including IETF (standards), ICANN (domain names), IAB (architecture). Key Services: World Wide Web (WWW), email, file transfer (FTP), Voice over IP (VoIP), streaming, cloud computing, EDI. 6.8 TCP/IP Internet Components TCP/IP (Transmission Control Protocol / Internet Protocol) is the fundamental communication protocol of the Internet. It is a suite of protocols that governs how data is formatted, addressed, transmitted, routed, and received. 6.8.",
+            "C / BIC — information criteria for model comparison — lower is better UNIT VII — Gradient Descent 7.1 Idea Behind Gradient Descent Gradient Descent is an iterative optimization algorithm used to minimize a cost/loss function by moving in the direction of steepest descent (negative gradient). It is the backbone of training machine learning models. Intuition: Imagine being blindfolded on a hilly terrain. You take small steps downhill until you reach the lowest point (minimum).",
+            "zed Zone) A DMZ is a separate network segment between the internet and the internal trusted network. Public-facing servers (web servers, mail servers, DNS) are placed in the DMZ — accessible from internet but isolated from internal network. Even if a DMZ server is compromised, the attacker cannot directly access internal systems. 8.4 IP Security (IPSec) IPSec is a suite of protocols that provides security at the IP layer (Layer 3).",
+            ", timely access to information and systems. Violated by DDoS attacks, ransomware, hardware failures. Enforced by redundancy, backups, DDoS protection. Authenticity: verifying the identity of communicating parties — the message is genuinely from who it claims. Enforced by digital signatures, certificates, multi-factor authentication. Non-repudiation: preventing parties from denying actions they have performed. Enforced by digital signatures and audit logs — provides legal accountability.",
+            " WhatsApp and portal-based communication KidCare Staging Environment The KidCare Staging Environment is a pre-production testing platform hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is used by Care Partners and internal teams to test and validate healthcare workflows before deployment to the live environment."
+        ],
+        "latency_ms": 2453.76,
+        "timestamp": "2026-05-20 23:25:36"
+    },
+    {
+        "question": "what is fennex ",
+        "answer": "## What Fennex Does\nFennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_26",
+            "response (9).docx_5"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "p companies replace manual paperwork and spreadsheets with centralized digital platforms that improve:  Safety  Efficiency  Reporting  Compliance  Predictive analysis  Operational visibility Fennex mainly provides: 1. Compliance & Assurance Solutions Helps companies:  Manage operational compliance  Maintain safety standards  Track procedures and policies  Digitize audits and inspections  Improve governance and reporting 2.",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5."
+        ],
+        "latency_ms": 1832.63,
+        "timestamp": "2026-05-20 23:25:41"
+    },
+    {
+        "question": "what are the products of fennex",
+        "answer": "## Products of Fennex\nThe context mentions one major product developed by Fennex:\n* **BBSS** – Behaviour Based Safety System, a safety observation and behavior tracking platform used to improve workplace safety and reduce incidents.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_28",
+            "response (9).docx_2",
+            "response (9).docx_5"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "ard identification  Safety assessments  Incident prevention  Predictive risk analysis using AI 3. Health & Safety Solutions Used for:  Workforce safety management  Safety observations  Incident reporting  Behavior-based safety systems  Offshore safety compliance Major Products Developed by Fennex BBSS – Behaviour Based Safety System A safety observation and behavior tracking platform used to improve workplace safety and reduce incidents.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5."
+        ],
+        "latency_ms": 2497.27,
+        "timestamp": "2026-05-20 23:26:39"
+    },
+    {
+        "question": "what are the products of fennex\n",
+        "answer": "## Products of Fennex\nThe context mentions one major product developed by Fennex:\n* **BBSS** – Behaviour Based Safety System, a safety observation and behavior tracking platform used to improve workplace safety and reduce incidents.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_28",
+            "response (9).docx_2",
+            "response (9).docx_5"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "ard identification  Safety assessments  Incident prevention  Predictive risk analysis using AI 3. Health & Safety Solutions Used for:  Workforce safety management  Safety observations  Incident reporting  Behavior-based safety systems  Offshore safety compliance Major Products Developed by Fennex BBSS – Behaviour Based Safety System A safety observation and behavior tracking platform used to improve workplace safety and reduce incidents.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5."
+        ],
+        "latency_ms": 2369.9,
+        "timestamp": "2026-05-21 00:01:41"
+    },
+    {
+        "question": "explain all products of fennex",
+        "answer": "## Products of Fennex\nThe context only mentions one specific product developed by Fennex:\n* **BBSS (Behaviour Based Safety System)**: a safety observation and behavior tracking platform used to improve workplace safety and reduce incidents.\n\nAdditionally, Fennex offers the following solutions:\n* **Cloud-based platforms**\n* **AI-Powered Safety Solutions**\n* **Operational Risk Management Tools**\n* **Compliance Solutions**\n* **Workflow management systems**",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "response (9).docx_2",
+            "response (9).docx_5",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_28"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5.",
+            "ard identification  Safety assessments  Incident prevention  Predictive risk analysis using AI 3. Health & Safety Solutions Used for:  Workforce safety management  Safety observations  Incident reporting  Behavior-based safety systems  Offshore safety compliance Major Products Developed by Fennex BBSS – Behaviour Based Safety System A safety observation and behavior tracking platform used to improve workplace safety and reduce incidents."
+        ],
+        "latency_ms": 2098.04,
+        "timestamp": "2026-05-21 00:01:54"
+    },
+    {
+        "question": "what is fennex ?",
+        "answer": "## What Fennex Does\nFennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_26",
+            "response (9).docx_5"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "p companies replace manual paperwork and spreadsheets with centralized digital platforms that improve:  Safety  Efficiency  Reporting  Compliance  Predictive analysis  Operational visibility Fennex mainly provides: 1. Compliance & Assurance Solutions Helps companies:  Manage operational compliance  Maintain safety standards  Track procedures and policies  Digitize audits and inspections  Improve governance and reporting 2.",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5."
+        ],
+        "latency_ms": 3536.97,
+        "timestamp": "2026-05-21 00:55:09"
+    },
+    {
+        "question": "who is vivek ",
+        "answer": "## Vivek Pramanik\nVivek Pramanik is a full stack developer with experience at CITC The Hub of IT, Ranchi.",
+        "citations": [
+            "NetworkSecurity_Cryptography_Notes.docx",
+            "Vivek Pramanik - Resume.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_1",
+            "response (9).docx_7",
+            "response (9).docx_6",
+            "NetworkSecurity_Cryptography_Notes.docx_167",
+            "NetworkSecurity_Cryptography_Notes.docx_217"
+        ],
+        "retrieved_chunks": [
+            "Vivek Pramanik Ranchi, Jharkhand | vivekpramanikbundu@gmail.com | +91-9341775692 vivekpramanik.in | github.com/icodervivek | linkedin.com/in/vivekpramanik Experience CITC The Hub of IT, Ranchi May 2024 - June 2024 Intern as a Full Stack Developer • Learned the basics of full stack web development. Worked on creating simple web pages, connecting them with databases, and handling basic server-side functions. Projects SwiftHire – AI Powered Hiring Platform swifthire-app.vercel.",
+            ", improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).docx",
+            "I-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5. **Workflow Management Systems** These solutions enable industries to transition from manual processes to digital platforms, improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).",
+            "tween network elements (base stations, core network). UNIT VII — User Authentication and Kerberos 7.1 Introduction to Authentication Authentication is the process of verifying the claimed identity of a user, process, or device. It is the first step in access control — you must prove who you are before you can be granted access. Identification: claiming an identity — presenting a username or ID. Who are you? Authentication: proving that claimed identity — providing evidence.",
+            "zed Zone) A DMZ is a separate network segment between the internet and the internal trusted network. Public-facing servers (web servers, mail servers, DNS) are placed in the DMZ — accessible from internet but isolated from internal network. Even if a DMZ server is compromised, the attacker cannot directly access internal systems. 8.4 IP Security (IPSec) IPSec is a suite of protocols that provides security at the IP layer (Layer 3)."
+        ],
+        "latency_ms": 3584.22,
+        "timestamp": "2026-05-21 01:26:47"
+    },
+    {
+        "question": "who is pramanik ",
+        "answer": "## Answer\nVivek Pramanik is the person mentioned in the context, with contact information and experience as a Full Stack Developer.",
+        "citations": [
+            "NetworkSecurity_Cryptography_Notes.docx",
+            "Vivek Pramanik - Resume.pdf",
+            "response (9).docx",
+            "ECommerce_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_1",
+            "response (9).docx_7",
+            "response (9).docx_6",
+            "NetworkSecurity_Cryptography_Notes.docx_167",
+            "ECommerce_Notes.docx_156"
+        ],
+        "retrieved_chunks": [
+            "Vivek Pramanik Ranchi, Jharkhand | vivekpramanikbundu@gmail.com | +91-9341775692 vivekpramanik.in | github.com/icodervivek | linkedin.com/in/vivekpramanik Experience CITC The Hub of IT, Ranchi May 2024 - June 2024 Intern as a Full Stack Developer • Learned the basics of full stack web development. Worked on creating simple web pages, connecting them with databases, and handling basic server-side functions. Projects SwiftHire – AI Powered Hiring Platform swifthire-app.vercel.",
+            ", improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).docx",
+            "I-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5. **Workflow Management Systems** These solutions enable industries to transition from manual processes to digital platforms, improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).",
+            "tween network elements (base stations, core network). UNIT VII — User Authentication and Kerberos 7.1 Introduction to Authentication Authentication is the process of verifying the claimed identity of a user, process, or device. It is the first step in access control — you must prove who you are before you can be granted access. Identification: claiming an identity — presenting a username or ID. Who are you? Authentication: proving that claimed identity — providing evidence.",
+            "— governed by standards bodies including IETF (standards), ICANN (domain names), IAB (architecture). Key Services: World Wide Web (WWW), email, file transfer (FTP), Voice over IP (VoIP), streaming, cloud computing, EDI. 6.8 TCP/IP Internet Components TCP/IP (Transmission Control Protocol / Internet Protocol) is the fundamental communication protocol of the Internet. It is a suite of protocols that governs how data is formatted, addressed, transmitted, routed, and received. 6.8."
+        ],
+        "latency_ms": 3234.6,
+        "timestamp": "2026-05-21 06:20:59"
+    },
+    {
+        "question": "give me some more details about Vivek Pramanik ",
+        "answer": "## Details about Vivek Pramanik\n* Location: **Ranchi, Jharkhand**\n* Contact: \n  * Email: **[EMAIL REDACTED]**\n  * Phone: **[PHONE REDACTED]**\n* Online presence: \n  * Website: **vivekpramanik.in**\n  * GitHub: **github.com/icodervivek**\n  * LinkedIn: **linkedin.com/in/vivekpramanik**",
+        "citations": [
+            "NetworkSecurity_Cryptography_Notes.docx",
+            "Vivek Pramanik - Resume.pdf",
+            "response (9).docx",
+            "ECommerce_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Resume.pdf_1",
+            "response (9).docx_7",
+            "response (9).docx_6",
+            "NetworkSecurity_Cryptography_Notes.docx_131",
+            "ECommerce_Notes.docx_114"
+        ],
+        "retrieved_chunks": [
+            "Vivek Pramanik Ranchi, Jharkhand | vivekpramanikbundu@gmail.com | +91-9341775692 vivekpramanik.in | github.com/icodervivek | linkedin.com/in/vivekpramanik Experience CITC The Hub of IT, Ranchi May 2024 - June 2024 Intern as a Full Stack Developer • Learned the basics of full stack web development. Worked on creating simple web pages, connecting them with databases, and handling basic server-side functions. Projects SwiftHire – AI Powered Hiring Platform swifthire-app.vercel.",
+            ", improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).docx",
+            "I-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5. **Workflow Management Systems** These solutions enable industries to transition from manual processes to digital platforms, improving efficiency, safety, and compliance. Citations Vivek Pramanik - Day 3 Tasks - Week 1 (1).",
+            "hide information in more significant bits (more visible changes). More robust to lossy compression. Transform Domain: hide information in frequency domain coefficients (DCT coefficients in JPEG, DWT in images). More resistant to steganalysis. Text Steganography: hiding data in text documents using whitespace, synonym substitution, or formatting. Network Steganography: hiding data in unused header fields of network protocols (e.g., TCP/IP header fields).",
+            "and operating during specific hours. E-commerce has fundamentally transformed market structures. 5.2 Electronic Markets (e-Markets) An Electronic Market (e-Market or Digital Market) is an inter-organisational information system in which multiple buyers and sellers interact to exchange information about prices, products, and services, and to complete transactions electronically."
+        ],
+        "latency_ms": 3366.89,
+        "timestamp": "2026-05-21 06:21:22"
+    },
+    {
+        "question": "explain me the company policy",
+        "answer": "## Company Policy\n* Manage operational compliance\n* Maintain safety standards\n* Track procedures and policies\n* Digitize audits and inspections\n* Improve governance and reporting \n\nNote: This information is specific to Fennex company. For FloCard, the company policy is not explicitly stated in the context.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "company_overview.json",
+            "ECommerce_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "ECommerce_Notes.docx_38",
+            "ECommerce_Notes.docx_36",
+            "ECommerce_Notes.docx_37",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_26",
+            "company_overview.json_1"
+        ],
+        "retrieved_chunks": [
+            "ms, and APIs — allowing seamless data exchange and process integration across company boundaries. 2.5 Competitive Advantage Competitive Advantage exists when a company consistently outperforms its rivals by delivering superior value to customers. Porter identified two fundamental types: Cost Advantage: producing goods/services at a lower cost than competitors while maintaining acceptable quality. Achieved through economies of scale, process efficiency, automation.",
+            "ically: controlling more stages of the supply chain — upstream (sourcing) or downstream (retail). 2.4 Inter-Organisational Value Chains When value chains of multiple organisations are linked together, they form an inter-organisational value chain (also called an Industry Value Chain or Value System). This includes: Supplier Value Chains: the activities that create inputs for the focal company. Company Value Chain: the focal company's own value chain.",
+            "that create inputs for the focal company. Company Value Chain: the focal company's own value chain. Channel Value Chains: value added by distribution channels, retailers, and logistics providers. Buyer Value Chains: how the product fits into the customer's own value chain. In the digital age, inter-organisational value chains are enabled by EDI, XML, cloud platforms, and APIs — allowing seamless data exchange and process integration across company boundaries. 2.",
+            "p companies replace manual paperwork and spreadsheets with centralized digital platforms that improve:  Safety  Efficiency  Reporting  Compliance  Predictive analysis  Operational visibility Fennex mainly provides: 1. Compliance & Assurance Solutions Helps companies:  Manage operational compliance  Maintain safety standards  Track procedures and policies  Digitize audits and inspections  Improve governance and reporting 2.",
+            "{ \"content\": \"\\n FloCard is a sustainability-focused digital business platform founded in India.\\n The company provides digital business cards, sustainability solutions, and climate-focused business tools.\\n FloCard helps businesses reduce paper waste while supporting sustainability and net-zero initiatives.\\n The platform enables users to create secure digital business cards that can be shared through QR codes, links, and OTP-based access."
+        ],
+        "latency_ms": 1774.25,
+        "timestamp": "2026-05-21 06:22:57"
+    },
+    {
+        "question": "what is Forward Chaining   ?",
+        "answer": "## Forward Chaining\n**Forward Chaining** (Data-Driven Reasoning) is a reasoning process that:\n* Starts from known facts in working memory\n* Applies rules to derive new facts, moving toward the goal\n* Process: \n  * Start with facts\n  * Match rule conditions\n  * Fire rules\n  * Add conclusions\n  * Repeat until goal is reached\n* **Strengths**: Natural for monitoring/alerting systems; all derivable conclusions are found.",
+        "citations": [
+            "Soft_Computing_Neural_Network_Notes.docx",
+            "ECommerce_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Soft_Computing_Neural_Network_Notes.docx_16",
+            "Soft_Computing_Neural_Network_Notes.docx_18",
+            "ECommerce_Notes.docx_66",
+            "ECommerce_Notes.docx_65",
+            "ECommerce_Notes.docx_31"
+        ],
+        "retrieved_chunks": [
+            "nd OPS5 are classic production-system languages. Modern expert systems use similar architectures. 1.5 Reasoning — Forward and Backward Chaining Forward Chaining (Data-Driven Reasoning) Starts from known facts in working memory and applies rules to derive new facts, moving toward the goal. Process: Start with facts → Match rule conditions → Fire rules → Add conclusions → Repeat until goal is reached. • Strengths: Natural for monitoring/alerting systems; all derivable conclusions are found.",
+            "cts: {Rains, HasUmbrella}. Rule: IF Rains THEN StayIndoor OR TakeUmbrella. Conclusion: TakeUmbrella. Backward Chaining (Goal-Driven Reasoning) Starts from the goal and works backward, identifying sub-goals whose satisfaction would prove the top-level goal. Process: Start with goal → Find rule whose RHS matches goal → Set its LHS as new sub-goals → Recurse until sub-goals match known facts. • Strengths: Only explores what is relevant to the goal; more efficient when goal is specific.",
+            "m): integrating with suppliers — electronic ordering, supplier scorecards, vendor-managed inventory. Forward Integration (Downstream): integrating with distributors and customers — tracking delivery, digital invoicing, customer portals. Horizontal Integration: integrating with companies at the same level — co-distribution, shared logistics networks. Lateral Integration: integrating across multiple industries or adjacent supply chains. 3.3.",
+            "al Integration: automatic invoicing, payment reconciliation, and financial reporting through ERP. 3.3 Supply Chain Integration Supply Chain Integration involves electronically linking an organisation with its suppliers, distributors, and logistics partners to create a seamless flow of goods, information, and money. 3.3.1 Types of Supply Chain Integration Backward Integration (Upstream): integrating with suppliers — electronic ordering, supplier scorecards, vendor-managed inventory.",
+            "digital logistics tracking, and automated customer service all create new competitive advantages. 2.2 Supply Chain The Supply Chain is the network of organisations, people, activities, information, and resources involved in moving a product from supplier to end customer. It is broader than the value chain — it spans multiple companies. 2.2.1 Key Components of Supply Chain Upstream (Suppliers): raw material suppliers, component manufacturers, resource providers."
+        ],
+        "latency_ms": 2858.2,
+        "timestamp": "2026-05-21 06:29:28"
+    },
+    {
+        "question": "give me some important questions related to SOFT COMPUTING AND NEURAL NETWORK",
+        "answer": "## Important Questions\n* What is an Artificial Neural Network (ANN) and how does it learn to perform tasks?\n* What are the different types of neural network architectures, such as Single-Layer Perceptron and Multi-Layer Perceptron (MLP)?\n* What is the role of the **output layer** in a neural network?\n* How do **Convolutional Neural Networks (CNN)** detect features in spatial data?\n* What are the different learning rules in neural computation, such as **Hebbian Learning** and **Competitive Learning**?",
+        "citations": [
+            "Soft_Computing_Neural_Network_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Soft_Computing_Neural_Network_Notes.docx_1",
+            "Soft_Computing_Neural_Network_Notes.docx_92",
+            "Soft_Computing_Neural_Network_Notes.docx_94",
+            "Soft_Computing_Neural_Network_Notes.docx_84",
+            "Soft_Computing_Neural_Network_Notes.docx_105"
+        ],
+        "retrieved_chunks": [
+            "SOFT COMPUTING AND NEURAL NETWORK MCA | CBCS Curriculum | Ranchi University Theory: 60 Lectures • Tutorial: 15 Hours Comprehensive Study Notes — All Units Covered UNIT I — Introduction to Artificial Intelligence System 1.",
+            "n deep networks. • Leaky ReLU: f(x) = x if x > 0, else αx (α ≈ 0.01). Prevents 'dying ReLU' problem. • Softmax: f(x_i) = e^{x_i} / Σe^{x_j}. Converts a vector to a probability distribution; used in multi-class classification output layers. 5.4 Neural Network Architectures Single-Layer Perceptron Only an input layer and an output layer. Can only solve linearly separable problems. Example: AND, OR gates. Multi-Layer Perceptron (MLP) Input layer + one or more hidden layers + output layer.",
+            "nsformations. • Output Layer: Produces final predictions (class probabilities or regression values). Convolutional Neural Networks (CNN) Specialised for spatial data (images, video). Uses convolutional layers (local receptive fields, weight sharing) to detect features like edges, textures, shapes. • Layers: Convolution → ReLU → Pooling → Flatten → Fully Connected → Softmax. • Applications: Image classification (ResNet, VGG), object detection (YOLO), face recognition.",
+            ": Frames ≈ Classes; Frame instances ≈ Objects; Slots ≈ Attributes; Procedural attachments ≈ Methods. UNIT V — Fundamentals of Neural Networks 5.1 Basic Concepts of Neural Networks An Artificial Neural Network (ANN) is a computational model inspired by the biological neural network of the brain. It consists of interconnected processing units (artificial neurons) that learn to perform tasks by adjusting the strength of connections (weights) based on training data.",
+            ". Strengthens connections between co-active neurons. The oldest learning rule in neural computation. Competitive Learning Neurons compete to respond to an input pattern; only the winner (most activated neuron) and its neighbours update their weights. Used in Self-Organising Maps. Boltzmann Machine Learning Uses stochastic neurons and energy-based learning. Restricted Boltzmann Machines (RBM) are trained with contrastive divergence and used in deep belief networks."
+        ],
+        "latency_ms": 4483.32,
+        "timestamp": "2026-05-21 06:30:44"
+    },
+    {
+        "question": "give me  the answers",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "NetworkSecurity_Cryptography_Notes.docx",
+            "Soft_Computing_Neural_Network_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Soft_Computing_Neural_Network_Notes.docx_33",
+            "NetworkSecurity_Cryptography_Notes.docx_170",
+            "NetworkSecurity_Cryptography_Notes.docx_217",
+            "Soft_Computing_Neural_Network_Notes.docx_121",
+            "Soft_Computing_Neural_Network_Notes.docx_87"
+        ],
+        "retrieved_chunks": [
+            "me / Individual: A candidate solution, typically encoded as a binary string (or real-valued vector). • Gene: A single element of a chromosome. • Allele: The value of a gene (0 or 1 in binary encoding). • Population: A set of chromosomes (size typically 20–200). • Generation: One complete iteration of the GA cycle. • Fitness: A measure of how good a solution is — the objective function value. 2.",
+            "ence Factor): biometrics — fingerprint, iris scan, face recognition, voice recognition, retina scan. Multi-Factor Authentication (MFA): combining two or more factors. Even if one factor is compromised, attacker still needs the others. 2FA (two-factor) is the most common MFA implementation. 7.3 Passwords Passwords are the most common authentication mechanism — despite being the weakest. A password is a secret string known only to the user. 7.3.",
+            "zed Zone) A DMZ is a separate network segment between the internet and the internal trusted network. Public-facing servers (web servers, mail servers, DNS) are placed in the DMZ — accessible from internet but isolated from internal network. Even if a DMZ server is compromised, the attacker cannot directly access internal systems. 8.4 IP Security (IPSec) IPSec is a suite of protocols that provides security at the IP layer (Layer 3).",
+            ", etc. 'John broke the window with a hammer.' (John = Agent, window = Patient, hammer = Instrument). • WordNet: A large lexical database grouping words into synsets (synonym sets) with semantic relations: hyponymy (IS-A), meronymy (HAS-PART), antonymy. Compositional Semantics The meaning of a sentence is built up from the meanings of its parts and the way they are combined — the Principle of Compositionality (Frege).",
+            "thousands of others via synapses. Neural activity and learning in the brain inspired the ANN model. Biological Neuron Components • Dendrites: Tree-like extensions that receive signals from other neurons. • Soma (Cell Body): Integrates received signals. If the total exceeds a threshold, the neuron fires. • Axon: A long fiber that transmits the output signal to other neurons. • Synapses: Junctions between neurons where signal strength (synaptic weight) is modulated."
+        ],
+        "latency_ms": 1747.71,
+        "timestamp": "2026-05-21 06:31:06"
+    },
+    {
+        "question": "Important Questions\nWhat is an Artificial Neural Network (ANN) and how does it learn to perform tasks?\nWhat are the different types of neural network architectures, such as Single-Layer Perceptron and Multi-Layer Perceptron (MLP)?\nWhat is the role of the output layer in a neural network?\nHow do Convolutional Neural Networks (CNN) detect features in spatial data?\nWhat are the different learning rules in neural computation, such as Hebbian Learning and Competitive Learning?\n\ngive me the answers",
+        "answer": "## Artificial Neural Network (ANN)\nAn **Artificial Neural Network (ANN)** is a computational model inspired by the biological neural network of the brain. It consists of interconnected processing units (artificial neurons) that learn to perform tasks by adjusting the strength of connections (weights) based on training data.\n\n## Types of Neural Network Architectures\nI could not find relevant information.\n\n## Role of the Output Layer\nI could not find relevant information.\n\n## Convolutional Neural Networks (CNN)\nI could not find relevant information.\n\n## Learning Rules in Neural Computation\n* **Hebbian Learning**: Unsupervised local learning rule: Δw_ij = η · x_i · y_j. Strengthens connections between co-active neurons.\n* **Competitive Learning**: Neurons compete to respond to an input pattern; only the winner (most activated neuron) and its neighbours update their weights. \n* **Q-Learning**: Learns a Q-value function Q(s,a) estimating expected future reward.\n* **Deep Q-Network (DQN)**: Uses ANN to approximate Q-function.\n* **Policy Gradient**: Directly optimises the policy network.",
+        "citations": [
+            "Soft_Computing_Neural_Network_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Soft_Computing_Neural_Network_Notes.docx_84",
+            "Soft_Computing_Neural_Network_Notes.docx_103",
+            "Soft_Computing_Neural_Network_Notes.docx_87",
+            "Soft_Computing_Neural_Network_Notes.docx_104",
+            "Soft_Computing_Neural_Network_Notes.docx_105"
+        ],
+        "retrieved_chunks": [
+            ": Frames ≈ Classes; Frame instances ≈ Objects; Slots ≈ Attributes; Procedural attachments ≈ Methods. UNIT V — Fundamentals of Neural Networks 5.1 Basic Concepts of Neural Networks An Artificial Neural Network (ANN) is a computational model inspired by the biological neural network of the brain. It consists of interconnected processing units (artificial neurons) that learn to perform tasks by adjusting the strength of connections (weights) based on training data.",
+            "on. • Clustering with ANN: Competitive learning — neurons compete to represent input; winner adapts. Reinforcement Learning (RL) An agent interacts with an environment, taking actions and receiving rewards/penalties. Goal: learn a policy π(s) → a that maximises cumulative reward. • Q-Learning: Learns a Q-value function Q(s,a) estimating expected future reward. • Deep Q-Network (DQN): Uses ANN to approximate Q-function (DeepMind, Atari games, 2015).",
+            "thousands of others via synapses. Neural activity and learning in the brain inspired the ANN model. Biological Neuron Components • Dendrites: Tree-like extensions that receive signals from other neurons. • Soma (Cell Body): Integrates received signals. If the total exceeds a threshold, the neuron fires. • Axon: A long fiber that transmits the output signal to other neurons. • Synapses: Junctions between neurons where signal strength (synaptic weight) is modulated.",
+            "re reward. • Deep Q-Network (DQN): Uses ANN to approximate Q-function (DeepMind, Atari games, 2015). • Policy Gradient: Directly optimises the policy network (REINFORCE, PPO, A3C). Hebbian Learning Unsupervised local learning rule: Δw_ij = η · x_i · y_j. Strengthens connections between co-active neurons. The oldest learning rule in neural computation.",
+            ". Strengthens connections between co-active neurons. The oldest learning rule in neural computation. Competitive Learning Neurons compete to respond to an input pattern; only the winner (most activated neuron) and its neighbours update their weights. Used in Self-Organising Maps. Boltzmann Machine Learning Uses stochastic neurons and energy-based learning. Restricted Boltzmann Machines (RBM) are trained with contrastive divergence and used in deep belief networks."
+        ],
+        "latency_ms": 4295.91,
+        "timestamp": "2026-05-21 06:31:18"
+    },
+    {
+        "question": "tell me the Characteristics of Neural Networks",
+        "answer": "## Characteristics of Neural Networks\n* **Adaptability / Learning**: Adjust weights via training algorithms to improve performance.\n* **Non-linearity**: Activation functions introduce non-linearity, enabling modelling of complex functions.\n* **High Dimensionality**: Can process thousands to millions of input features.\n* **Generalisation**: Correctly handle unseen data after learning from training set.",
+        "citations": [
+            "Soft_Computing_Neural_Network_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Soft_Computing_Neural_Network_Notes.docx_98",
+            "Soft_Computing_Neural_Network_Notes.docx_84",
+            "Soft_Computing_Neural_Network_Notes.docx_130",
+            "Soft_Computing_Neural_Network_Notes.docx_94",
+            "Soft_Computing_Neural_Network_Notes.docx_100"
+        ],
+        "retrieved_chunks": [
+            "arallel using self-attention mechanisms. Basis of GPT, BERT, T5, and other large language models. 5.5 Characteristics of Neural Networks • Adaptability / Learning: Adjust weights via training algorithms to improve performance. • Non-linearity: Activation functions introduce non-linearity, enabling modelling of complex functions. • High Dimensionality: Can process thousands to millions of input features. • Generalisation: Correctly handle unseen data after learning from training set.",
+            ": Frames ≈ Classes; Frame instances ≈ Objects; Slots ≈ Attributes; Procedural attachments ≈ Methods. UNIT V — Fundamentals of Neural Networks 5.1 Basic Concepts of Neural Networks An Artificial Neural Network (ANN) is a computational model inspired by the biological neural network of the brain. It consists of interconnected processing units (artificial neurons) that learn to perform tasks by adjusting the strength of connections (weights) based on training data.",
+            "rst trainable neural network. • Geoffrey Hinton: Backpropagation; deep learning; Boltzmann machines. • Marvin Minsky (1975): Frames for knowledge representation. • Ross Quillian (1968): Semantic Networks. • Noam Chomsky: Chomsky Hierarchy; transformational grammar; generative linguistics. • Vaswani et al. (2017): Transformer architecture ('Attention is All You Need').",
+            "nsformations. • Output Layer: Produces final predictions (class probabilities or regression values). Convolutional Neural Networks (CNN) Specialised for spatial data (images, video). Uses convolutional layers (local receptive fields, weight sharing) to detect features like edges, textures, shapes. • Layers: Convolution → ReLU → Pooling → Flatten → Fully Connected → Softmax. • Applications: Image classification (ResNet, VGG), object detection (YOLO), face recognition.",
+            "s. • Data-Driven: No need for hand-crafted rules; patterns are extracted automatically from data. 5.6 Learning Methods in Neural Networks Supervised Learning Training data consists of (input, desired output) pairs. The network minimises a loss function (e.g., MSE, cross-entropy) by comparing its output to the target. • Backpropagation: Algorithm that computes gradients of the loss w.r.t. each weight using the chain rule, then updates weights via gradient descent: w ← w − η · ∂L/∂w."
+        ],
+        "latency_ms": 2069.12,
+        "timestamp": "2026-05-21 06:32:15"
+    },
+    {
+        "question": "what are Functions",
+        "answer": "## Functions\nA **function** is a block of code that performs a specific task. It promotes modularity and **DRY (Don't Repeat Yourself)** principle. \n* Defined using: `def function_name(parameters):`\n* Can have a **docstring** \n* Can return multiple values as a **tuple**.",
+        "citations": [
+            "DataScience_Python_Notes.docx",
+            "Soft_Computing_Neural_Network_Notes.docx",
+            "ECommerce_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "DataScience_Python_Notes.docx_31",
+            "DataScience_Python_Notes.docx_38",
+            "Soft_Computing_Neural_Network_Notes.docx_40",
+            "ECommerce_Notes.docx_139",
+            "DataScience_Python_Notes.docx_37"
+        ],
+        "retrieved_chunks": [
+            "ode that performs a specific task. It promotes modularity and DRY (Don't Repeat Yourself) principle. def function_name(parameters): '''docstring''' # body return value # optional 2.4.1 Return Statement A function without return implicitly returns None. Can return multiple values as a tuple: return x, y return exits the function immediately. 2.5 Function Arguments 2.5.1 Positional Arguments Matched by position. Order matters. 2.5.2 Keyword Arguments Matched by name. Order doesn't matter. e.g.",
+            "ed function, declares that a variable refers to the enclosing function's scope, not global or local. x = 10 def modify(): global x x = 20 # modifies global x def outer(): y = 10 def inner(): nonlocal y y = 20 # modifies outer's y inner() 2.9 Modules and Packages 2.9.1 Modules A module is a .py file containing Python code (functions, classes, variables). It provides code reusability and organization.",
+            "real number. Directly represents continuous variables. Common in neural network weight optimisation. Permutation Encoding Used for ordering problems (TSP, scheduling). Chromosome is a permutation of elements. Value Encoding Genes are values from any domain (strings, objects). Used in complex problems like evolving programs. 2.11 Fitness Function The fitness function f(chromosome) evaluates how close a chromosome is to the optimal solution. It is the objective function being optimised.",
+            "A/IEA): outermost wrapper — identifies sender, receiver, date, time, and interchange control number. Functional Group (GS/GE): groups related transaction sets of the same type. Transaction Set (ST/SE): the actual business document — e.g., one purchase order. Segments and Elements: segments are lines of data (like SAC, PO1, N1); elements are the data fields within each segment. 6.3.",
+            "le) — keeps elements where func returns True. sorted(iterable, key=func) — sorts using key function. reduce(func, iterable) — from functools; applies func cumulatively. 2.8 Global, Local, and Nonlocal global — inside a function, declares that a variable refers to the module-level global, not a new local. nonlocal — inside a nested function, declares that a variable refers to the enclosing function's scope, not global or local."
+        ],
+        "latency_ms": 12727.55,
+        "timestamp": "2026-05-21 08:39:16"
+    },
+    {
+        "question": "what is fennex",
+        "answer": "## What Fennex Does\nFennex is a **digital transformation** and **enterprise software** company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_26",
+            "response (9).docx_5"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "p companies replace manual paperwork and spreadsheets with centralized digital platforms that improve:  Safety  Efficiency  Reporting  Compliance  Predictive analysis  Operational visibility Fennex mainly provides: 1. Compliance & Assurance Solutions Helps companies:  Manage operational compliance  Maintain safety standards  Track procedures and policies  Digitize audits and inspections  Improve governance and reporting 2.",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5."
+        ],
+        "latency_ms": 4638.55,
+        "timestamp": "2026-05-21 08:39:31"
+    },
+    {
+        "question": "what are the products of fennex",
+        "answer": "## Products of Fennex\nThe context mentions one major product developed by Fennex:\n* **BBSS** – Behaviour Based Safety System, a safety observation and behavior tracking platform used to improve workplace safety and reduce incidents.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf",
+            "response (9).docx"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_28",
+            "response (9).docx_2",
+            "response (9).docx_5"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "ard identification  Safety assessments  Incident prevention  Predictive risk analysis using AI 3. Health & Safety Solutions Used for:  Workforce safety management  Safety observations  Incident reporting  Behavior-based safety systems  Offshore safety compliance Major Products Developed by Fennex BBSS – Behaviour Based Safety System A safety observation and behavior tracking platform used to improve workplace safety and reduce incidents.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5."
+        ],
+        "latency_ms": 7411.35,
+        "timestamp": "2026-05-21 08:39:50"
+    },
+    {
+        "question": "what is kidcare",
+        "answer": "## KidCare Description\nKidCare is a pediatric healthcare management platform developed by **366Pi Technologies** that helps manage child healthcare digitally. \nIt is described as both an **Android-based** and an **Android and iOS based healthcare management application**.",
+        "citations": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_18",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_3",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_1",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_21",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_4"
+        ],
+        "retrieved_chunks": [
+            "k Appointment → Attend Online Consultation → Receive Prescription & Reports → Follow-up if Needed 3. Summarize core features and value proposition KidCare – Short Summary KidCare is an Android-based pediatric healthcare management platform developed by 366Pi Technologies that helps Care Partners, doctors, hospitals, and parents manage child healthcare digitally.",
+            "intments, vaccination tracking, medical history, and health camp activities in a centralized system. KidCare helps healthcare teams efficiently manage children’s healthcare journeys by providing features such as appointment scheduling, patient registration, medical history management, growth tracking, vaccination updates, and document management.",
+            "Activity 1 — Explore KidCare 1. Access the staging environment for KidCare Documentation for Staging Environment for KidCare About KidCare KidCare is an Android and iOS based healthcare management application developed by 366Pi Technologies to simplify pediatric healthcare workflows for Care Partners, doctors, and healthcare administrators.",
+            " WhatsApp and portal-based communication KidCare Staging Environment The KidCare Staging Environment is a pre-production testing platform hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is used by Care Partners and internal teams to test and validate healthcare workflows before deployment to the live environment.",
+            "stration, medical history management, growth tracking, vaccination updates, and document management. About the KidCare Staging Environment The KidCare Staging Environment is a testing and pre-production version of the KidCare application hosted on Microsoft SharePoint and maintained by 366Pi Technologies. It is primarily used by Care Partners and internal teams to test, validate, and manage healthcare workflows before changes are deployed to the live production environment."
+        ],
+        "latency_ms": 17149.78,
+        "timestamp": "2026-05-21 09:03:14"
+    },
+    {
+        "question": "what is osi",
+        "answer": "## OSI Definition\nThe **OSI (Open Systems Interconnection)** model is a seven-layer conceptual framework for network communication, developed by ISO in 1984. It standardises how data flows from application to physical medium and back.",
+        "citations": [
+            "NetworkSecurity_Cryptography_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NetworkSecurity_Cryptography_Notes.docx_17",
+            "NetworkSecurity_Cryptography_Notes.docx_9",
+            "NetworkSecurity_Cryptography_Notes.docx_19",
+            "NetworkSecurity_Cryptography_Notes.docx_18",
+            "NetworkSecurity_Cryptography_Notes.docx_10"
+        ],
+        "retrieved_chunks": [
+            "ons: bit transmission, signal encoding, data rate specification, physical topology, synchronisation. Standards: RS-232, USB, Ethernet physical standards, DSL, SONET, Bluetooth physical. Devices: Hubs, Repeaters, Cables, Connectors, Modems. PDU: Bits (Signals). Key Point: OSI is a reference model — most real implementations use TCP/IP. OSI layers 5, 6, and 7 are often merged into the TCP/IP Application layer. 1.",
+            "and sequence information. Packet: network-layer PDU — includes source and destination IP addresses. Frame: data-link-layer PDU — includes MAC addresses and error-checking fields. Bits: physical-layer PDU — actual electrical/optical/radio signals. 1.3 The OSI Reference Model The Open Systems Interconnection (OSI) model, developed by ISO in 1984, defines a seven-layer conceptual framework for network communication. It standardises how data flows from application to physical medium and back. 1.3.",
+            "of OSI): supports network applications directly. Protocols: HTTP, FTP, DNS, SMTP, SSH, SNMP, Telnet. Transport Layer (Layer 4 of OSI): end-to-end communication. Protocols: TCP (reliable, ordered, error-checked) and UDP (fast, connectionless). Internet Layer (Layer 3 of OSI): addressing and routing. Protocols: IPv4, IPv6, ICMP, ARP. Network Access Layer (Layers 1-2 of OSI): physical transmission and data-link framing. Ethernet, Wi-Fi, PPP. 1.4.",
+            "mentations use TCP/IP. OSI layers 5, 6, and 7 are often merged into the TCP/IP Application layer. 1.4 The TCP/IP Protocol Architecture The TCP/IP model is the practical, de-facto standard for internet communications. It has 4 layers (sometimes shown as 5 when the Physical layer is separated from Data Link). 1.4.1 TCP/IP Layers Application Layer (Layers 5-7 of OSI): supports network applications directly. Protocols: HTTP, FTP, DNS, SMTP, SSH, SNMP, Telnet.",
+            "ork communication. It standardises how data flows from application to physical medium and back. 1.3.1 OSI Layers — Top to Bottom Layer 7 — Application Layer Provides network services directly to end-user applications. Handles user authentication, privacy, and identifies communication partners. Protocols: HTTP/HTTPS, FTP, SMTP, POP3, IMAP, DNS, DHCP, SNMP, Telnet, SSH. Functions: file transfers, email, remote login, network management, directory services. PDU: Data (Message)."
+        ],
+        "latency_ms": 6033.24,
+        "timestamp": "2026-05-21 09:26:46"
+    },
+    {
+        "question": "what is fennex",
+        "answer": "## What Fennex Does\nFennex is a **digital transformation** and **enterprise software** company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. \n\nI made a minor change to the original answer to ensure it is fully supported by the context. The original answer stated that Fennex \"specializing\" in the mentioned sectors, while the context states that Fennex \"mainly works\" in those sectors.",
+        "citations": [
+            "response (9).docx",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf"
+        ],
+        "retrieved_chunk_ids": [
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_24",
+            "response (9).docx_2",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_25",
+            "Vivek Pramanik - Day 3 Tasks - Week 1.pdf_26",
+            "response (9).docx_5"
+        ],
+        "retrieved_chunks": [
+            "x Write a short summary of what Fennex does understand how and on what projects we work with Fennex. Fennex is a digital transformation and enterprise software company that mainly works in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. The company builds cloud-based platforms, AI-powered safety systems, operational risk tools, compliance solutions, and workflow management systems for large industrial organizations.",
+            "re its content with me, and I'll assist you in finding relevant information. Citations No citations. Chat 2 Question what is fennex ? Answer ## What Fennex Does ### Overview of Fennex's Services Fennex is a **digital transformation** and **enterprise software** company specializing in the offshore energy, oil & gas, renewable energy, and industrial safety sectors. ### Projects and Focus Areas * Builds cloud-based platforms for **digitally transforming and streamlining processes**.",
+            "isk tools, compliance solutions, and workflow management systems for large industrial organizations. What Fennex Does Fennex focuses on improving:  Health, Safety & Environment (HSE)  Operational risk management  Compliance and assurance  Workforce safety  Inspection and audit processes  Offshore wind safety  Digital workflow automation  Enterprise collaboration systems Their solutions help companies replace manual paperwork and spreadsheets with centralized digital platforms that improv",
+            "p companies replace manual paperwork and spreadsheets with centralized digital platforms that improve:  Safety  Efficiency  Reporting  Compliance  Predictive analysis  Operational visibility Fennex mainly provides: 1. Compliance & Assurance Solutions Helps companies:  Manage operational compliance  Maintain safety standards  Track procedures and policies  Digitize audits and inspections  Improve governance and reporting 2.",
+            "AI-driven solutions. * Focusing on **Workforce Safety**, inspection, audit, and process improvement. ## What Fennex Does ### Key Services Offered Fennex's comprehensive range of services includes: 1. **Cloud-based Platform Development** 2. **AI-Powered Safety Solutions** 3. **Operational Risk Management Tools** 4. **Compliance Solutions** 5."
+        ],
+        "latency_ms": 2803.23,
+        "timestamp": "2026-05-21 09:27:00"
+    },
+    {
+        "question": "hey how are you",
+        "answer": "I could not find relevant information.",
+        "citations": [
+            "DataScience_Python_Notes.docx",
+            "NetworkSecurity_Cryptography_Notes.docx"
+        ],
+        "retrieved_chunk_ids": [
+            "NetworkSecurity_Cryptography_Notes.docx_168",
+            "NetworkSecurity_Cryptography_Notes.docx_167",
+            "DataScience_Python_Notes.docx_125",
+            "NetworkSecurity_Cryptography_Notes.docx_169",
+            "DataScience_Python_Notes.docx_18"
+        ],
+        "retrieved_chunks": [
+            "g a username or ID. Who are you? Authentication: proving that claimed identity — providing evidence. Prove it! Authorisation: determining what an authenticated identity is allowed to do. What can you access? Accounting (Auditing): recording what an authenticated user did. What did you do? AAA Framework: Authentication, Authorisation, Accounting — fundamental security framework. 7.2 Authentication Basics 7.2.",
+            "tween network elements (base stations, core network). UNIT VII — User Authentication and Kerberos 7.1 Introduction to Authentication Authentication is the process of verifying the claimed identity of a user, process, or device. It is the first step in access control — you must prove who you are before you can be granted access. Identification: claiming an identity — presenting a username or ID. Who are you? Authentication: proving that claimed identity — providing evidence.",
+            "folded on a hilly terrain. You take small steps downhill until you reach the lowest point (minimum). Cost Function J(θ) — measures model error — e.g., MSE for regression, Cross-Entropy for classification Gradient ∇J(θ) — vector of partial derivatives of J with respect to each parameter θ. Points in direction of steepest increase. Update Rule — θ = θ - α × ∇J(θ). We subtract gradient to go downhill. 7.",
+            "tication, Authorisation, Accounting — fundamental security framework. 7.2 Authentication Basics 7.2.1 Three Factors of Authentication Something You Know (Knowledge Factor): passwords, PINs, security questions, passphrases. Something You Have (Possession Factor): smart cards, hardware tokens (RSA SecurID), OTP devices, mobile phone (for SMS OTP). Something You Are (Inherence Factor): biometrics — fingerprint, iris scan, face recognition, voice recognition, retina scan.",
+            "rd input. Always returns a string. print(*objects, sep, end, file, flush) — writes output to stdout. name = input('Enter your name: ') age = int(input('Enter age: ')) # must cast manually print(f'Hello {name}, you are {age} years old.') print('a', 'b', 'c', sep='-', end='\\n') # a-b-c 1.6.2 Import import module — imports entire module. Access via module."
+        ],
+        "latency_ms": 3269.39,
+        "timestamp": "2026-05-21 09:50:11"
+    }
+]

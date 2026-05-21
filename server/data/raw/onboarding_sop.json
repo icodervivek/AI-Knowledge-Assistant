@@ -1,0 +1,14 @@
+{
+    "content": "\n        New Employee Onboarding SOP\n\n        This document describes the standard onboarding process for all new FloCard employees.\n\n        Week 1 — Setup and Orientation\n        Day 1: Collect your laptop from IT. Set up email, Slack, and VPN access.\n        Day 2: Complete mandatory compliance and security training in the LMS portal.\n        Day 3: Meet your buddy (assigned by HR) and attend the company orientation session.\n        Day 4-5: Shadow your team and review relevant internal documentation.\n\n        Week 2 — Role Onboarding\n        Engineering hires: Set up local dev environment using the Dev Setup Guide.\n        Complete your first small task or bug fix with code review from your team lead.\n        Non-engineering hires: Complete role-specific training modules in the LMS.\n\n        Checklists:\n        - IT access provisioned (email, Slack, GitHub, Jira)\n        - HR documents signed (NDA, employment contract, POSH policy)\n        - First 30-60-90 day goals set with manager\n        - Added to team Slack channels and calendar invites\n\n        Contacts:\n        HR queries: ask@flocard.app\n        ",
+    "metadata": {
+        "title": "New Employee Onboarding SOP",
+        "tags": [
+            "onboarding",
+            "SOP",
+            "HR",
+            "process"
+        ],
+        "type": "sop",
+        "date": "2026-05-19"
+    }
+}
